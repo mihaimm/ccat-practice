@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "l-999",
+    "type": "logic",
+    "subtype": "syllogism",
+    "question": "If no quadrilaterals are circles, and all squares are quadrilaterals, which of the following must be true?",
+    "options": [
+      "No squares are circles",
+      "Some squares are circles",
+      "All circles are squares",
+      "No circles are quadrilaterals",
+      "Some quadrilaterals are not squares",
+      "None of the above"
+    ],
+    "answer": "No squares are circles"
+  },
+  {
+    "id": "s-h901",
+    "type": "spatial",
+    "subtype": "matrix_logic",
+    "question": "In a 3x3 grid, Row 1 has 1 black circle moving clockwise. Row 2 has 2 black circles moving counter-clockwise. Row 3 has 3 black circles moving clockwise, but they also change color to white every second step. What is the state of the 3rd cell in Row 3?",
+    "options": [
+      "3 white circles in the corners",
+      "3 black circles in the corners",
+      "2 white circles, 1 black circle",
+      "3 white circles in the center",
+      "1 white circle, 2 black circles",
+      "Cannot be determined"
+    ],
+    "answer": "3 white circles in the corners"
+  },
+  {
+    "id": "v-202",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "TERGIVERSATION : AMBIGUITY :: ________ : ________",
+    "options": [
+      "Equivocation : Clarity",
+      "Mendacity : Deceit",
+      "Paucity : Abundance",
+      "Alacrity : Slowness",
+      "Honesty : Integrity",
+      "Circumlocution : Brevity"
+    ],
+    "answer": "Mendacity : Deceit"
+  },
+  {
+    "id": "n-303",
+    "type": "math",
+    "subtype": "work_rate",
+    "question": "Pump A can fill a tank in 4 hours. Pump B can fill it in 6 hours. A drain can empty the full tank in 3 hours. If all three are opened at once when the tank is empty, how long until the tank is half full?",
+    "options": [
+      "6 hours",
+      "4 hours",
+      "12 hours",
+      "8 hours",
+      "5 hours",
+      "2 hours"
+    ],
+    "answer": "6 hours"
+  },
+  {
+    "id": "v-205",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "GUILELESS : ARTIFICE :: ________ : ________",
+    "options": [
+      "Dormant : Activity",
+      "Mellifluous : Sound",
+      "Innocuous : Harm",
+      "Sanguine : Hope",
+      "Garish : Color",
+      "Listless : Energy"
+    ],
+    "answer": "Listless : Energy"
+  },
+  {
+    "id": "n-305",
+    "type": "math",
+    "subtype": "cycles",
+    "question": "A digital clock is set to 12:00 (midnight). If the clock gains 7 minutes every 3 hours, what time will the clock display after exactly 180 hours have passed in real time?",
+    "options": [
+      "6:00 AM",
+      "7:00 AM",
+      "12:00 PM",
+      "8:00 PM",
+      "7:00 PM",
+      "12:00 AM"
+    ],
+    "answer": "7:00 PM"
+  },
+  {
+    "id": "s-h902",
+    "type": "spatial",
+    "subtype": "abstract_transformation",
+    "question": "A complex polygon is rotated 90 degrees clockwise, then reflected across the Y-axis, then rotated 180 degrees counter-clockwise. This is equivalent to which single transformation?",
+    "options": [
+      "Rotation 90 degrees CCW",
+      "Reflection across the X-axis",
+      "Rotation 270 degrees CW",
+      "Reflection across the line y = x",
+      "Reflection across the line y = -x",
+      "No change"
+    ],
+    "answer": "Reflection across the line y = -x"
+  },
+  {
+    "id": "l-h901",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All roses are flowers. Some flowers fade quickly. No violets are roses. Which statement must be true?",
+    "options": [
+      "All violets fade quickly",
+      "Some violets fade quickly",
+      "No violets fade quickly",
+      "Some flowers are not roses",
+      "All flowers are roses",
+      "Cannot be determined"
+    ],
+    "answer": "Some flowers are not roses"
+  },
+  {
+    "id": "l-h902",
+    "type": "logic",
+    "subtype": "syllogism",
+    "question": "No athlete is lazy. All lazy people are unhappy. Some workers are lazy. Therefore:",
+    "options": [
+      "Some workers are not athletes",
+      "All workers are unhappy",
+      "Some athletes are unhappy",
+      "No workers are athletes",
+      "All unhappy people are workers",
+      "Cannot be determined"
+    ],
+    "answer": "Some workers are not athletes"
+  },
+  {
+    "id": "v-h901",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "Ephemeral : Eternal :: Lachrymose : ?",
+    "options": [
+      "Joyful",
+      "Weeping",
+      "Cheerful",
+      "Mournful",
+      "Hilarious",
+      "Stoic"
+    ],
+    "answer": "Joyful"
+  },
+  {
+    "id": "n-104",
+    "type": "numeric",
+    "subtype": "number-series",
+    "question": "What comes next?  2 | 5 | 11 | 23 | 47 | ?",
+    "options": [
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99"
+    ],
+    "answer": "95"
+  },
+  {
+    "id": "s-h903",
+    "type": "spatial",
+    "subtype": "folding",
+    "question": "A cube is unfolded into a cross shape with symbols on each square. When folded back, which symbol is opposite the triangle if the center is a circle and arms have: top=star, bottom=square, left=moon, right=triangle?",
+    "options": [
+      "star",
+      "square",
+      "moon",
+      "circle",
+      "triangle",
+      "none of these"
+    ],
+    "answer": "square"
+  },
+  {
+    "id": "l-h903",
+    "type": "logic",
+    "subtype": "conditional",
+    "question": "If it rains then the ground is wet. The ground is not wet. Therefore:",
+    "options": [
+      "It rained",
+      "It did not rain",
+      "It might have rained",
+      "The ground is dry",
+      "Both B and D",
+      "Cannot conclude anything"
+    ],
+    "answer": "Both B and D"
+  },
+  {
+    "id": "v-h902",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Which word does NOT belong?",
+    "options": [
+      "Ebullient",
+      "Jubilant",
+      "Exultant",
+      "Morose",
+      "Elated",
+      "Ecstatic"
+    ],
+    "answer": "Morose"
+  },
+  {
+    "id": "n-108",
+    "type": "numeric",
+    "subtype": "word-problem",
+    "question": "Pipe A fills a tank in 12 minutes. Pipe B empties it in 18 minutes. If both are open, how long to fill an empty tank?",
+    "options": [
+      "30 min",
+      "36 min",
+      "72 min",
+      "Never",
+      "45 min",
+      "24 min"
+    ],
+    "answer": "72 min"
+  },
+  {
+    "id": "l-h904",
+    "type": "logic",
+    "subtype": "syllogism-negative",
+    "question": "All swans in this pond are white. No black birds are swans. Some birds are black. What follows?",
+    "options": [
+      "Some birds are not swans",
+      "No birds in the pond are black",
+      "All black birds are not swans",
+      "Some swans are black",
+      "A and B",
+      "A and C"
+    ],
+    "answer": "A and C"
+  },
+  {
+    "id": "v-h903",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "His speech was so __________ that even his opponents were forced to applaud.",
+    "options": [
+      "turgid",
+      "lucid",
+      "tortuous",
+      "incoherent",
+      "prolix",
+      "abstruse"
+    ],
+    "answer": "lucid"
+  },
+  {
+    "id": "n-111",
+    "type": "numeric",
+    "subtype": "series-2step",
+    "question": "3 → 10 → 24 → 52 → 108 → ?",
+    "options": [
+      "212",
+      "216",
+      "220",
+      "224",
+      "228",
+      "232"
+    ],
+    "answer": "220"
+  },
+  {
+    "id": "s-h904",
+    "type": "spatial",
+    "subtype": "rotation",
+    "question": "If a clockwise arrow rotated 135° becomes pointing southeast, what was its original direction?",
+    "options": [
+      "North",
+      "Northeast",
+      "East",
+      "Southeast",
+      "South",
+      "Northwest"
+    ],
+    "answer": "Northeast"
+  },
+  {
+    "id": "l-h905",
+    "type": "logic",
+    "subtype": "truth-liar",
+    "question": "Three people: A says \"B is lying\", B says \"C is lying\", C says \"A and B are both lying\". Who is telling the truth?",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "A and B",
+      "None",
+      "Cannot determine"
+    ],
+    "answer": "Only C"
+  },
+  {
+    "id": "v-h904",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Obstreperous is most opposite to:",
+    "options": [
+      "Noisy",
+      "Obedient",
+      "Raucous",
+      "Disorderly",
+      "Boisterous",
+      "Clamorous"
+    ],
+    "answer": "Obedient"
+  },
+  {
+    "id": "n-115",
+    "type": "numeric",
+    "subtype": "proportion",
+    "question": "If 4 workers build 4 walls in 4 days, how many days for 6 workers to build 9 walls?",
+    "options": [
+      "6",
+      "7.2",
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "l-h906",
+    "type": "logic",
+    "subtype": "set-theory",
+    "question": "Exactly 60% of students play soccer, 45% play basketball, 20% play both. What percentage play neither?",
+    "options": [
+      "5%",
+      "15%",
+      "25%",
+      "35%",
+      "40%",
+      "Cannot calculate"
+    ],
+    "answer": "15%"
+  },
+  {
+    "id": "s-h905",
+    "type": "spatial",
+    "subtype": "mirror",
+    "question": "The mirror image of CLOCKWISE is closest to:",
+    "options": [
+      "COUNTERCLOCKWISE",
+      "CLOCKWISE",
+      "ANTICLOCKWISE",
+      "Same",
+      "Reversed letters",
+      "None"
+    ],
+    "answer": "COUNTERCLOCKWISE"
+  },
+  {
+    "id": "v-h905",
+    "type": "verbal",
+    "subtype": "analogy-hard",
+    "question": "Chicanery : Candor :: Perfidy : ?",
+    "options": [
+      "Loyalty",
+      "Deceit",
+      "Fidelity",
+      "Honesty",
+      "Treachery",
+      "Trust"
+    ],
+    "answer": "Fidelity"
+  },
+  {
+    "id": "n-119",
+    "type": "numeric",
+    "subtype": "pattern-complex",
+    "question": "7 | 16 | 34 | 70 | 142 | ?",
+    "options": [
+      "286",
+      "288",
+      "290",
+      "292",
+      "294",
+      "296"
+    ],
+    "answer": "286"
+  },
+  {
+    "id": "l-h907",
+    "type": "logic",
+    "subtype": "knights-knaves",
+    "question": "On an island of knights (always truth) and knaves (always lie): A says \"We are both knaves\". What are A and B?",
+    "options": [
+      "Both knights",
+      "Both knaves",
+      "A knight, B knave",
+      "A knave, B knight",
+      "Impossible",
+      "Cannot determine"
+    ],
+    "answer": "A knave, B knight"
+  },
+  {
+    "id": "n-121",
+    "type": "numeric",
+    "subtype": "number-series",
+    "question": "What comes next?  4 | 10 | 26 | 62 | 146 | ?",
+    "options": [
+      "338",
+      "340",
+      "342",
+      "344",
+      "346",
+      "348"
+    ],
+    "answer": "338"
+  },
+  {
+    "id": "l-h908",
+    "type": "logic",
+    "subtype": "syllogism-multiple",
+    "question": "All poets are dreamers. No dreamers are practical. Some practical people are engineers. Therefore:",
+    "options": [
+      "No poets are engineers",
+      "Some engineers are not poets",
+      "All engineers are practical",
+      "Some dreamers are engineers",
+      "No engineers are poets",
+      "Cannot be determined"
+    ],
+    "answer": "Some engineers are not poets"
+  },
+  {
+    "id": "v-h906",
+    "type": "verbal",
+    "subtype": "analogy-advanced",
+    "question": "Iconoclast : Tradition :: Apostate : ?",
+    "options": [
+      "Belief",
+      "Religion",
+      "Faith",
+      "Orthodoxy",
+      "Dogma",
+      "Rebellion"
+    ],
+    "answer": "Faith"
+  },
+  {
+    "id": "s-124",
+    "type": "spatial",
+    "subtype": "rotation-reflection",
+    "question": "A figure is rotated 90° clockwise and then reflected over its vertical axis. If the original had a black triangle in the top-left pointing right, where is the black triangle after both transformations?",
+    "options": [
+      "Top-right pointing left",
+      "Bottom-right pointing left",
+      "Bottom-left pointing right",
+      "Top-left pointing left",
+      "Top-right pointing right",
+      "Bottom-right pointing right"
+    ],
+    "answer": "Bottom-right pointing left"
+  },
+  {
+    "id": "n-125",
+    "type": "numeric",
+    "subtype": "work-rate-complex",
+    "question": "A can do a job in 15 days, B in 20 days, C in 30 days. They work together for 5 days, then A and B leave. How many more days does C need to finish?",
+    "options": [
+      "7.5",
+      "8",
+      "9",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "l-h909",
+    "type": "logic",
+    "subtype": "truth-teller-variant",
+    "question": "A says: \"B always lies.\" B says: \"C always tells the truth.\" C says: \"A and B both lie.\" Who tells the truth?",
+    "options": [
+      "Only A",
+      "Only B",
+      "Only C",
+      "A and C",
+      "None",
+      "All three"
+    ],
+    "answer": "Only C"
+  },
+  {
+    "id": "v-h907",
+    "type": "verbal",
+    "subtype": "odd-one-out-vocabulary",
+    "question": "Which does NOT belong?",
+    "options": [
+      "Perspicuous",
+      "Lucid",
+      "Pellucid",
+      "Opaque",
+      "Limpid",
+      "Translucent"
+    ],
+    "answer": "Opaque"
+  },
+  {
+    "id": "n-128",
+    "type": "numeric",
+    "subtype": "sequence-fibonacci-twist",
+    "question": "1 | 2 | 5 | 12 | 29 | 70 | ?",
+    "options": [
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174"
+    ],
+    "answer": "169"
+  },
+  {
+    "id": "s-129",
+    "type": "spatial",
+    "subtype": "paper-folding-punch",
+    "question": "A square paper is folded in half vertically, then in half horizontally, then a corner is cut off. When unfolded, how many holes and what pattern?",
+    "options": [
+      "1 hole in center",
+      "4 holes in corners",
+      "4 holes forming a diamond",
+      "2 holes on diagonal",
+      "1 large hole in middle",
+      "4 holes along edges"
+    ],
+    "answer": "4 holes in corners"
+  },
+  {
+    "id": "l-130",
+    "type": "logic",
+    "subtype": "set-inclusion",
+    "question": "70% like tea, 55% like coffee, 35% like both, 10% like neither. What % like only coffee?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "answer": "20%"
+  },
+  {
+    "id": "v-h908",
+    "type": "verbal",
+    "subtype": "synonym-hard",
+    "question": "Which is closest in meaning to \"recondite\"?",
+    "options": [
+      "Obvious",
+      "Esoteric",
+      "Shallow",
+      "Common",
+      "Superficial",
+      "Trivial"
+    ],
+    "answer": "Esoteric"
+  },
+  {
+    "id": "n-132",
+    "type": "numeric",
+    "subtype": "speed-distance",
+    "question": "Two trains 150 m and 200 m long are running in opposite directions at 45 km/h and 63 km/h. How long to completely pass each other?",
+    "options": [
+      "10 s",
+      "12 s",
+      "14 s",
+      "15 s",
+      "16 s",
+      "18 s"
+    ],
+    "answer": "12 s"
+  },
+  {
+    "id": "l-133",
+    "type": "logic",
+    "subtype": "conditional-chain",
+    "question": "If P then Q. If Q then R. If not R then S. Not S. Therefore:",
+    "options": [
+      "Not P",
+      "P",
+      "Q",
+      "R",
+      "Not Q",
+      "Cannot conclude"
+    ],
+    "answer": "Not P"
+  },
+  {
+    "id": "s-134",
+    "type": "spatial",
+    "subtype": "cube-pattern",
+    "question": "When assembled (from 3x3x3), three adjacent faces of a cube are painted red, blue, green. How many small cubes have exactly two colors?",
+    "options": [
+      "8",
+      "12",
+      "18",
+      "24",
+      "6",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "v-h909",
+    "type": "verbal",
+    "subtype": "analogy-obscure",
+    "question": "Nebulous : Distinct :: Capricious : ?",
+    "options": [
+      "Steady",
+      "Whimsical",
+      "Reliable",
+      "Constant",
+      "Predictable",
+      "Stable"
+    ],
+    "answer": "Steady"
+  },
+  {
+    "id": "n-136",
+    "type": "numeric",
+    "subtype": "series-prime-factor",
+    "question": "3 | 8 | 18 | 40 | 88 | ?",
+    "options": [
+      "192",
+      "194",
+      "196",
+      "198",
+      "200",
+      "202"
+    ],
+    "answer": "192"
+  },
+  {
+    "id": "l-137",
+    "type": "logic",
+    "subtype": "einstein-riddle-style",
+    "question": "Four houses. Only one drinks milk. The Brit lives left of the red house. The green house is left of the white. The person who drinks coffee lives in green. Who drinks milk?",
+    "options": [
+      "Brit in red",
+      "Swede in white",
+      "Dane in green",
+      "Norwegian in yellow",
+      "German in blue",
+      "Cannot determine"
+    ],
+    "answer": "Cannot determine"
+  },
+  {
+    "id": "n-138",
+    "type": "numeric",
+    "subtype": "profit-loss-complex",
+    "question": "An item is sold at 20% profit. If sold for $48 more, profit would be 35%. What is the cost price?",
+    "options": [
+      "$300",
+      "$320",
+      "$340",
+      "$360",
+      "$380",
+      "$400"
+    ],
+    "answer": "$320"
+  },
+  {
+    "id": "v-h910",
+    "type": "verbal",
+    "subtype": "antonym-advanced",
+    "question": "Most opposite of \"effrontery\"?",
+    "options": [
+      "Timidity",
+      "Audacity",
+      "Boldness",
+      "Impudence",
+      "Presumption",
+      "Brashness"
+    ],
+    "answer": "Timidity"
+  },
+  {
+    "id": "s-140",
+    "type": "spatial",
+    "subtype": "figure-count",
+    "question": "A large triangle is divided into smaller triangles by connecting midpoints of each side. How many smallest upward-pointing triangles?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "n-141",
+    "type": "numeric",
+    "subtype": "age-problem",
+    "question": "Five years ago the sum of ages of A and B was 28. In 7 years A will be twice as old as B was 3 years ago. How old is A now?",
+    "options": [
+      "17",
+      "19",
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": "l-142",
+    "type": "logic",
+    "subtype": "deduction-multiple",
+    "question": "Some cats are mammals. All mammals have fur. No reptiles have fur. Therefore:",
+    "options": [
+      "No cats are reptiles",
+      "Some mammals are cats",
+      "All cats have fur",
+      "Some reptiles are not cats",
+      "A and C",
+      "A and B"
+    ],
+    "answer": "A and C"
+  },
+  {
+    "id": "v-h911",
+    "type": "verbal",
+    "subtype": "sentence-equivalence",
+    "question": "His __________ manner concealed a shrewd and calculating mind.",
+    "options": [
+      "diffident",
+      "ostentatious",
+      "unassuming",
+      "bombastic",
+      "self-effacing",
+      "pompous"
+    ],
+    "answer": "unassuming"
+  },
+  {
+    "id": "n-144",
+    "type": "numeric",
+    "subtype": "series-polynomial",
+    "question": "5 | 11 | 24 | 52 | 114 | ?",
+    "options": [
+      "248",
+      "250",
+      "252",
+      "254",
+      "256",
+      "258"
+    ],
+    "answer": "248"
+  },
+  {
+    "id": "s-145",
+    "type": "spatial",
+    "subtype": "embedded-figures",
+    "question": "Which shape CANNOT be formed by rearranging four 45-45-90 triangles?",
+    "options": [
+      "Square",
+      "Rectangle 2:1",
+      "Parallelogram",
+      "Isosceles trapezoid",
+      "Regular hexagon",
+      "Kite"
+    ],
+    "answer": "Regular hexagon"
+  },
+  {
+    "id": "l-146",
+    "type": "logic",
+    "subtype": "probability-logic",
+    "question": "Bag has 3 red, 5 blue balls. Two drawn without replacement. Probability second is red given first was blue?",
+    "options": [
+      "3/7",
+      "3/8",
+      "5/8",
+      "1/2",
+      "2/7",
+      "3/10"
+    ],
+    "answer": "3/7"
+  },
+  {
+    "id": "v-h912",
+    "type": "verbal",
+    "subtype": "analogy-rare",
+    "question": "Mendicant : Alms :: Aficionado : ?",
+    "options": [
+      "Expertise",
+      "Devotion",
+      "Money",
+      "Knowledge",
+      "Passion",
+      "Support"
+    ],
+    "answer": "Passion"
+  },
+  {
+    "id": "n-148",
+    "type": "numeric",
+    "subtype": "mixture-alligation",
+    "question": "A 40 L mixture is 30% acid. How many liters of 80% acid must be added to make it 50% acid?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22",
+      "24",
+      "25"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "l-149",
+    "type": "logic",
+    "subtype": "contrapositive-chain",
+    "question": "All winners trained hard. No lazy person trained hard. Some students are lazy. What must be true?",
+    "options": [
+      "Some students did not win",
+      "No students won",
+      "All winners are not students",
+      "Some winners are students",
+      "A and C",
+      "Cannot be determined"
+    ],
+    "answer": "Some students did not win"
+  },
+  {
+    "id": "n-150",
+    "type": "numeric",
+    "subtype": "final-hard-series",
+    "question": "2 | 6 | 15 | 31 | 56 | 92 | ?",
+    "options": [
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "146"
+    ],
+    "answer": "141"
+  },
+  {
+    "id": "l-201",
+    "type": "logic",
+    "subtype": "syllogism-complex",
+    "question": "No optimists are pessimists. All pessimists worry. Some worriers are planners. Therefore:",
+    "options": [
+      "Some planners are not optimists",
+      "No optimists worry",
+      "All planners worry",
+      "Some optimists are planners",
+      "No planners are optimists",
+      "Cannot be determined"
+    ],
+    "answer": "Some planners are not optimists"
+  },
+  {
+    "id": "n-202",
+    "type": "numeric",
+    "subtype": "number-series",
+    "question": "What comes next?  5 | 12 | 27 | 58 | 121 | ?",
+    "options": [
+      "248",
+      "250",
+      "252",
+      "254",
+      "256",
+      "258"
+    ],
+    "answer": "248"
+  },
+  {
+    "id": "v-203",
+    "type": "verbal",
+    "subtype": "analogy-advanced",
+    "question": "Profligate : Frugal :: Obdurate : ?",
+    "options": [
+      "Flexible",
+      "Stubborn",
+      "Yielding",
+      "Malleable",
+      "Pliant",
+      "Docile"
+    ],
+    "answer": "Flexible"
+  },
+  {
+    "id": "s-204",
+    "type": "spatial",
+    "subtype": "rotation",
+    "question": "A shape pointing northeast is rotated 225° counterclockwise. What direction does it now point?",
+    "options": [
+      "Northwest",
+      "West",
+      "Southwest",
+      "South",
+      "Southeast",
+      "East"
+    ],
+    "answer": "Southwest"
+  },
+  {
+    "id": "n-205",
+    "type": "numeric",
+    "subtype": "work-rate",
+    "question": "A and B together finish a job in 12 days. A alone takes 20 days. After working together for 8 days, how long does B need alone to finish?",
+    "options": [
+      "10 days",
+      "12 days",
+      "15 days",
+      "18 days",
+      "20 days",
+      "24 days"
+    ],
+    "answer": "24 days"
+  },
+  {
+    "id": "l-206",
+    "type": "logic",
+    "subtype": "liar-truth-teller",
+    "question": "A says: \"Exactly one of us is lying.\" B says: \"A is lying.\" Who is telling the truth?",
+    "options": [
+      "Only A",
+      "Only B",
+      "Both",
+      "Neither",
+      "Impossible situation",
+      "Cannot determine"
+    ],
+    "answer": "Only B"
+  },
+  {
+    "id": "v-207",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Which word does NOT belong?",
+    "options": [
+      "Ephemeral",
+      "Transient",
+      "Evanescent",
+      "Fleeting",
+      "Permanent",
+      "Momentary"
+    ],
+    "answer": "Permanent"
+  },
+  {
+    "id": "n-208",
+    "type": "numeric",
+    "subtype": "series-twist",
+    "question": "4 | 10 | 22 | 46 | 94 | ?",
+    "options": [
+      "190",
+      "192",
+      "194",
+      "196",
+      "198",
+      "200"
+    ],
+    "answer": "190"
+  },
+  {
+    "id": "s-209",
+    "type": "spatial",
+    "subtype": "folding-unfolding",
+    "question": "Paper folded twice (once horizontally, once vertically), then two opposite corners cut off. When unfolded, how many holes?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "1",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "l-210",
+    "type": "logic",
+    "subtype": "set-percentage",
+    "question": "65% of employees like tea, 50% like coffee, 30% like both. What percentage like only tea?",
+    "options": [
+      "25%",
+      "30%",
+      "35%",
+      "40%",
+      "45%",
+      "50%"
+    ],
+    "answer": "35%"
+  },
+  {
+    "id": "v-211",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Most opposite of \"taciturn\"?",
+    "options": [
+      "Silent",
+      "Reserved",
+      "Garrulous",
+      "Reticent",
+      "Laconic",
+      "Mum"
+    ],
+    "answer": "Garrulous"
+  },
+  {
+    "id": "n-212",
+    "type": "numeric",
+    "subtype": "train-problem",
+    "question": "Train A (180 m long) and Train B (220 m long) approach each other at 54 km/h and 72 km/h. Time to completely pass each other?",
+    "options": [
+      "10 s",
+      "12 s",
+      "14 s",
+      "15 s",
+      "16 s",
+      "18 s"
+    ],
+    "answer": "12 s"
+  },
+  {
+    "id": "l-213",
+    "type": "logic",
+    "subtype": "conditional-contrapositive",
+    "question": "If it is Monday then she works late. She is not working late. Therefore:",
+    "options": [
+      "It is Monday",
+      "It is not Monday",
+      "It might be Monday",
+      "She works late on other days",
+      "It is Tuesday",
+      "Cannot conclude"
+    ],
+    "answer": "It is not Monday"
+  },
+  {
+    "id": "s-214",
+    "type": "spatial",
+    "subtype": "cube-faces",
+    "question": "Opposite faces of a cube sum to 7. If 3 is on top and 5 faces front, what number is on the bottom?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6",
+      "7",
+      "Cannot tell"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "v-215",
+    "type": "verbal",
+    "subtype": "analogy-obscure",
+    "question": "Lugubrious : Mirthful :: Perspicacious : ?",
+    "options": [
+      "Dull",
+      "Shrewd",
+      "Obtuse",
+      "Astute",
+      "Keen",
+      "Perceptive"
+    ],
+    "answer": "Obtuse"
+  },
+  {
+    "id": "n-216",
+    "type": "numeric",
+    "subtype": "series-composite",
+    "question": "7 | 15 | 31 | 63 | 127 | ?",
+    "options": [
+      "255",
+      "256",
+      "257",
+      "258",
+      "259",
+      "260"
+    ],
+    "answer": "255"
+  },
+  {
+    "id": "l-217",
+    "type": "logic",
+    "subtype": "knights-knaves",
+    "question": "A says: \"B is a knight.\" B says: \"A and I are different types.\" What are they?",
+    "options": [
+      "Both knights",
+      "Both knaves",
+      "A knight, B knave",
+      "A knave, B knight",
+      "Impossible",
+      "Cannot determine"
+    ],
+    "answer": "Both knaves"
+  },
+  {
+    "id": "n-218",
+    "type": "numeric",
+    "subtype": "profit-loss",
+    "question": "Selling at 15% profit. If sold $60 more, profit would be 25%. Cost price?",
+    "options": [
+      "$400",
+      "$450",
+      "$500",
+      "$550",
+      "$600",
+      "$650"
+    ],
+    "answer": "$600"
+  },
+  {
+    "id": "v-219",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "Her argument was so __________ that even skeptics were persuaded.",
+    "options": [
+      "tortuous",
+      "lucid",
+      "convoluted",
+      "obscure",
+      "labyrinthine",
+      "arcane"
+    ],
+    "answer": "lucid"
+  },
+  {
+    "id": "s-220",
+    "type": "spatial",
+    "subtype": "mirror-image",
+    "question": "The mirror image of a right hand holding a cup on the left side appears as:",
+    "options": [
+      "Right hand holding cup on right",
+      "Left hand holding cup on left",
+      "Right hand holding cup on right",
+      "Left hand holding cup on right",
+      "Same as original",
+      "Cup disappears"
+    ],
+    "answer": "Left hand holding cup on right"
+  },
+  {
+    "id": "n-221",
+    "type": "numeric",
+    "subtype": "series",
+    "question": "3 | 7 | 15 | 31 | 63 | ?",
+    "options": [
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130"
+    ],
+    "answer": "127"
+  },
+  {
+    "id": "l-222",
+    "type": "logic",
+    "subtype": "syllogism-negative",
+    "question": "All birds can fly. No penguins are birds that can fly. Therefore:",
+    "options": [
+      "Penguins cannot fly",
+      "Some birds cannot fly",
+      "All penguins cannot fly",
+      "No penguins can fly",
+      "A and D",
+      "Cannot conclude definitively"
+    ],
+    "answer": "A and D"
+  },
+  {
+    "id": "v-223",
+    "type": "verbal",
+    "subtype": "synonym-hard",
+    "question": "Closest in meaning to \"calumny\"?",
+    "options": [
+      "Praise",
+      "Slander",
+      "Compliment",
+      "Admiration",
+      "Eulogy",
+      "Accolade"
+    ],
+    "answer": "Slander"
+  },
+  {
+    "id": "n-224",
+    "type": "numeric",
+    "subtype": "mixture",
+    "question": "40 L of 25% alcohol solution. How many liters of pure alcohol to add to make 40%?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "s-225",
+    "type": "spatial",
+    "subtype": "figure-count",
+    "question": "A large square divided into 16 smaller squares. How many squares of any size are there total?",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "answer": "55"
+  },
+  {
+    "id": "l-226",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Some roses are red. All red things are beautiful. No ugly things are beautiful. Therefore:",
+    "options": [
+      "Some roses are beautiful",
+      "No roses are ugly",
+      "All beautiful things are red",
+      "Some ugly things are roses",
+      "A and B",
+      "Cannot conclude"
+    ],
+    "answer": "A and B"
+  },
+  {
+    "id": "n-227",
+    "type": "numeric",
+    "subtype": "age",
+    "question": "Four years ago A was three times as old as B. In six years A will be twice as old as B. How old is A now?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "v-228",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "Acrimonious : Harmony :: Capricious : ?",
+    "options": [
+      "Consistency",
+      "Whimsy",
+      "Fickleness",
+      "Steadfastness",
+      "Changeability",
+      "Volatility"
+    ],
+    "answer": "Consistency"
+  },
+  {
+    "id": "s-229",
+    "type": "spatial",
+    "subtype": "paper-punch",
+    "question": "Paper folded into thirds vertically, then once horizontally, corner cut. Unfolded holes?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "n-230",
+    "type": "numeric",
+    "subtype": "series",
+    "question": "1 | 5 | 14 | 30 | 55 | ?",
+    "options": [
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "96"
+    ],
+    "answer": "91"
+  },
+  {
+    "id": "l-231",
+    "type": "logic",
+    "subtype": "truth-liar-circle",
+    "question": "A says B lies, B says C lies, C says A lies. Who is telling the truth?",
+    "options": [
+      "Exactly one",
+      "Exactly two",
+      "All three",
+      "None",
+      "Impossible",
+      "Cannot determine"
+    ],
+    "answer": "Exactly one"
+  },
+  {
+    "id": "v-232",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Which does NOT belong?",
+    "options": [
+      "Obstreperous",
+      "Tractable",
+      "Recalcitrant",
+      "Defiant",
+      "Insubordinate",
+      "Rebellious"
+    ],
+    "answer": "Tractable"
+  },
+  {
+    "id": "n-233",
+    "type": "numeric",
+    "subtype": "rate-time",
+    "question": "Car A travels 60 km/h, Car B 80 km/h. They start 200 km apart heading toward each other. Time to meet?",
+    "options": [
+      "1.25 h",
+      "1.5 h",
+      "1.75 h",
+      "2 h",
+      "2.25 h",
+      "2.5 h"
+    ],
+    "answer": "1.5 h"
+  },
+  {
+    "id": "s-234",
+    "type": "spatial",
+    "subtype": "rotation-reflection",
+    "question": "Shape rotated 180° then reflected horizontally. Equivalent to:",
+    "options": [
+      "Reflection only",
+      "90° rotation",
+      "270° rotation",
+      "Reflection vertically",
+      "No change",
+      "Reflection over diagonal"
+    ],
+    "answer": "Reflection vertically"
+  },
+  {
+    "id": "l-235",
+    "type": "logic",
+    "subtype": "set",
+    "question": "82% passed math, 68% passed science, 55% passed both. % passed at least one?",
+    "options": [
+      "90%",
+      "92%",
+      "95%",
+      "96%",
+      "98%",
+      "100%"
+    ],
+    "answer": "95%"
+  },
+  {
+    "id": "v-236",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Opposite of \"pulchritude\"?",
+    "options": [
+      "Beauty",
+      "Ugliness",
+      "Grace",
+      "Elegance",
+      "Comeliness",
+      "Allure"
+    ],
+    "answer": "Ugliness"
+  },
+  {
+    "id": "n-237",
+    "type": "numeric",
+    "subtype": "series",
+    "question": "9 | 18 | 36 | 72 | 144 | ?",
+    "options": [
+      "288",
+      "290",
+      "292",
+      "294",
+      "296",
+      "298"
+    ],
+    "answer": "288"
+  },
+  {
+    "id": "s-238",
+    "type": "spatial",
+    "subtype": "cube-color",
+    "question": "3×3×3 cube, all outer faces painted. How many small cubes have exactly 3 faces painted?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "18",
+      "24",
+      "27"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "l-239",
+    "type": "logic",
+    "subtype": "conditional",
+    "question": "All winners trained. No slackers trained. Some students slack. What follows?",
+    "options": [
+      "Some students did not win",
+      "No students won",
+      "All winners are non-students",
+      "Some slackers won",
+      "A and C",
+      "Cannot be determined"
+    ],
+    "answer": "Some students did not win"
+  },
+  {
+    "id": "n-240",
+    "type": "numeric",
+    "subtype": "series-hard",
+    "question": "2 | 10 | 30 | 68 | 130 | ?",
+    "options": [
+      "222",
+      "224",
+      "226",
+      "228",
+      "230",
+      "232"
+    ],
+    "answer": "222"
+  },
+  {
+    "id": "v-241",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "Quixotic : Practical :: Lachrymose : ?",
+    "options": [
+      "Cheerful",
+      "Weeping",
+      "Mournful",
+      "Joyful",
+      "Sorrowful",
+      "Melancholy"
+    ],
+    "answer": "Cheerful"
+  },
+  {
+    "id": "s-242",
+    "type": "spatial",
+    "subtype": "pattern",
+    "question": "Sequence: triangle → square → pentagon → ?",
+    "options": [
+      "Hexagon",
+      "Circle",
+      "Octagon",
+      "Heptagon",
+      "Rectangle",
+      "Star"
+    ],
+    "answer": "Hexagon"
+  },
+  {
+    "id": "n-243",
+    "type": "numeric",
+    "subtype": "compound-interest-logic",
+    "question": "At what rate % per year does $1000 double in approximately 8 years (rule of 72)?",
+    "options": [
+      "8%",
+      "9%",
+      "9.5%",
+      "10%",
+      "11%",
+      "12%"
+    ],
+    "answer": "9%"
+  },
+  {
+    "id": "l-244",
+    "type": "logic",
+    "subtype": "syllogism",
+    "question": "All mammals nurse their young. No reptiles nurse their young. Some animals are reptiles. Therefore:",
+    "options": [
+      "Some animals do not nurse their young",
+      "No mammals are reptiles",
+      "All animals that nurse are mammals",
+      "Some reptiles nurse",
+      "A and B",
+      "A and C"
+    ],
+    "answer": "A and C"
+  },
+  {
+    "id": "v-245",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The politician’s __________ promises failed to convince the cynical audience.",
+    "options": [
+      "sincere",
+      "disingenuous",
+      "earnest",
+      "candid",
+      "veracious",
+      "guileless"
+    ],
+    "answer": "disingenuous"
+  },
+  {
+    "id": "n-246",
+    "type": "numeric",
+    "subtype": "series",
+    "question": "1 | 4 | 27 | 256 | 3125 | ?",
+    "options": [
+      "46656",
+      "46657",
+      "46658",
+      "46659",
+      "46660",
+      "46661"
+    ],
+    "answer": "46656"
+  },
+  {
+    "id": "s-247",
+    "type": "spatial",
+    "subtype": "embedded",
+    "question": "Which figure CANNOT be made using exactly four congruent isosceles right triangles?",
+    "options": [
+      "Square",
+      "Rectangle 3:2",
+      "Parallelogram",
+      "Regular octagon",
+      "Isosceles trapezoid",
+      "Kite"
+    ],
+    "answer": "Regular octagon"
+  },
+  {
+    "id": "l-248",
+    "type": "logic",
+    "subtype": "probability-logic",
+    "question": "Bag: 4 red, 6 blue. Draw two without replacement. P(second red | first blue)?",
+    "options": [
+      "4/9",
+      "4/10",
+      "5/9",
+      "6/10",
+      "3/9",
+      "2/5"
+    ],
+    "answer": "4/9"
+  },
+  {
+    "id": "n-249",
+    "type": "numeric",
+    "subtype": "speed-boat-stream",
+    "question": "Boat speed in still water 18 km/h. Stream 6 km/h. Time to go 48 km downstream and return?",
+    "options": [
+      "6 h",
+      "6.4 h",
+      "6.8 h",
+      "7 h",
+      "7.2 h",
+      "7.5 h"
+    ],
+    "answer": "6.4 h"
+  },
+  {
+    "id": "v-250",
+    "type": "verbal",
+    "subtype": "analogy-final",
+    "question": "Nefarious : Virtuous :: Recalcitrant : ?",
+    "options": [
+      "Obedient",
+      "Defiant",
+      "Stubborn",
+      "Rebellious",
+      "Insubordinate",
+      "Contrariant"
+    ],
+    "answer": "Obedient"
+  },
+  {
+    "id": "s-h906",
+    "type": "spatial",
+    "subtype": "pattern-matrix",
+    "question": "Which option completes the 3×3 matrix pattern?",
+    "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect x='0' y='0' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><circle cx='30' cy='30' r='22' fill='white' stroke='black' stroke-width='2'/><rect x='66' y='0' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><circle cx='96' cy='30' r='22' fill='#888' stroke='black' stroke-width='2'/><rect x='132' y='0' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><circle cx='162' cy='30' r='22' fill='black' stroke='black' stroke-width='2'/><rect x='0' y='66' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><rect x='10' y='76' width='40' height='40' fill='white' stroke='black' stroke-width='2'/><rect x='66' y='66' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><rect x='76' y='76' width='40' height='40' fill='#888' stroke='black' stroke-width='2'/><rect x='132' y='66' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><rect x='142' y='76' width='40' height='40' fill='black' stroke='black' stroke-width='2'/><rect x='0' y='132' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><polygon points='30.0,138.0 9.2,174.0 50.8,174.0' fill='white' stroke='black' stroke-width='2'/><rect x='66' y='132' width='60' height='60' fill='white' stroke='#ddd' stroke-width='1'/><polygon points='96.0,138.0 75.2,174.0 116.8,174.0' fill='#888' stroke='black' stroke-width='2'/><rect x='132' y='132' width='60' height='60' fill='#f2f2f2' stroke='#bbb' stroke-width='1' stroke-dasharray='4,3'/><text x='162' y='169' text-anchor='middle' font-size='20' fill='#bbb' font-family='sans-serif'>?</text></svg>",
+    "imageOptions": [
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 68'><rect x='0' y='0' width='68' height='68' fill='white' stroke='#ddd' stroke-width='1'/><polygon points='34.0,10.0 13.2,46.0 54.8,46.0' fill='black' stroke='black' stroke-width='2'/></svg>",
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 68'><rect x='0' y='0' width='68' height='68' fill='white' stroke='#ddd' stroke-width='1'/><polygon points='34.0,10.0 13.2,46.0 54.8,46.0' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 68'><rect x='0' y='0' width='68' height='68' fill='white' stroke='#ddd' stroke-width='1'/><circle cx='34' cy='34' r='22' fill='black' stroke='black' stroke-width='2'/></svg>",
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 68'><rect x='0' y='0' width='68' height='68' fill='white' stroke='#ddd' stroke-width='1'/><rect x='14' y='14' width='40' height='40' fill='black' stroke='black' stroke-width='2'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h907",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "Which option shows the figure after a 90° clockwise rotation followed by a horizontal reflection?",
+    "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='30,30 70,30 50,80' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+    "imageOptions": [
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='30,70 70,70 50,20' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='70,30 30,30 50,80' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='30,30 70,70 30,70' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='70,70 30,70 50,20' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h908",
+    "type": "spatial",
+    "subtype": "paper-folding",
+    "question": "Paper is folded once vertically (right over left), then once horizontally (bottom over top), and a small triangle is cut from the top-right corner. Which pattern appears when unfolded?",
+    "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black' stroke-width='2'/><line x1='60' y1='10' x2='60' y2='110' stroke='gray' stroke-width='1' stroke-dasharray='4,4'/><line x1='10' y1='60' x2='110' y2='60' stroke='gray' stroke-width='1' stroke-dasharray='4,4'/><polygon points='100,10 110,20 100,30' fill='black'/></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black'/><polygon points='20,20 30,10 40,20' fill='black'/><polygon points='90,20 100,10 110,20' fill='black'/><polygon points='20,90 30,100 40,90' fill='black'/><polygon points='90,90 100,100 110,90' fill='black'/></svg>",
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black'/><polygon points='50,50 60,40 70,50' fill='black'/></svg>",
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black'/><polygon points='20,20 30,30 20,40' fill='black'/><polygon points='90,20 100,30 90,40' fill='black'/></svg>",
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black'/><polygon points='20,20 30,10 40,20' fill='black'/><polygon points='90,90 100,100 110,90' fill='black'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h909",
+    "type": "spatial",
+    "subtype": "pattern-progression",
+    "question": "What figure replaces the question mark to continue the logical sequence?",
+    "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black'/><circle cx='50' cy='50' r='30' fill='#ddd'/><rect x='110' y='10' width='80' height='80' fill='none' stroke='black'/><circle cx='150' cy='50' r='24' fill='#888'/><rect x='210' y='10' width='80' height='80' fill='none' stroke='black'/><circle cx='250' cy='50' r='18' fill='black'/><text x='290' y='55' font-size='30'>?</text></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 100 100'><circle cx='50' cy='50' r='12' fill='#444'/></svg>",
+      "<svg viewBox='0 0 100 100'><circle cx='50' cy='50' r='30' fill='black'/></svg>",
+      "<svg viewBox='0 0 100 100'><rect x='20' y='20' width='60' height='60' fill='black'/></svg>",
+      "<svg viewBox='0 0 100 100'><polygon points='50,20 80,80 20,80' fill='black'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h910",
+    "type": "spatial",
+    "subtype": "cube-net",
+    "question": "Which net can fold into a cube where opposite faces sum to 7 (standard die)?",
+    "image": "<svg viewBox='0 0 180 120'><rect x='60' y='0' width='60' height='60' fill='none' stroke='black'/><text x='90' y='40' font-size='20'>1</text><rect x='0' y='60' width='60' height='60' fill='none' stroke='black'/><text x='30' y='100' font-size='20'>2</text><rect x='60' y='60' width='60' height='60' fill='none' stroke='black'/><text x='90' y='100' font-size='20'>3</text><rect x='120' y='60' width='60' height='60' fill='none' stroke='black'/><text x='150' y='100' font-size='20'>4</text><rect x='60' y='120' width='60' height='60' fill='none' stroke='black'/><text x='90' y='160' font-size='20'>?</text></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 60 60'><text x='30' y='40' font-size='20'>6</text></svg>",
+      "<svg viewBox='0 0 60 60'><text x='30' y='40' font-size='20'>5</text></svg>",
+      "<svg viewBox='0 0 60 60'><text x='30' y='40' font-size='20'>7</text></svg>",
+      "<svg viewBox='0 0 60 60'><text x='30' y='40' font-size='20'>3</text></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "s-h911",
+    "type": "spatial",
+    "subtype": "figure-series",
+    "question": "Which option continues the logical progression?",
+    "image": "<svg viewBox='0 0 300 100'><g transform='translate(20,20)'><polygon points='0,0 40,0 20,35' fill='#ccc'/></g><g transform='translate(100,20)'><polygon points='0,0 50,0 25,43' fill='#888'/></g><g transform='translate(180,20)'><polygon points='0,0 60,0 30,52' fill='#444'/></g><text x='260' y='50' font-size='30'>?</text></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 80 80'><polygon points='0,0 70,0 35,61' fill='black'/></svg>",
+      "<svg viewBox='0 0 80 80'><polygon points='0,0 30,0 15,26' fill='#222'/></svg>",
+      "<svg viewBox='0 0 80 80'><rect x='0' y='0' width='60' height='60' fill='black'/></svg>",
+      "<svg viewBox='0 0 80 80'><circle cx='30' cy='30' r='25' fill='black'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h912",
+    "type": "spatial",
+    "subtype": "paper-folding-punch",
+    "question": "Paper folded in half vertically (left to right), then in half horizontally (top to bottom), then a circle punched in the center of the folded stack. Which pattern appears when unfolded?",
+    "image": "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black' stroke-width='2'/><line x1='60' y1='10' x2='60' y2='110' stroke='gray' stroke-dasharray='5,5'/><line x1='10' y1='60' x2='110' y2='60' stroke='gray' stroke-dasharray='5,5'/><circle cx='60' cy='60' r='12' fill='black'/></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black' stroke-width='2'/><circle cx='30' cy='30' r='12' fill='black'/><circle cx='90' cy='30' r='12' fill='black'/><circle cx='30' cy='90' r='12' fill='black'/><circle cx='90' cy='90' r='12' fill='black'/></svg>",
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black' stroke-width='2'/><circle cx='60' cy='60' r='12' fill='black'/></svg>",
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black' stroke-width='2'/><circle cx='30' cy='60' r='12' fill='black'/><circle cx='90' cy='60' r='12' fill='black'/></svg>",
+      "<svg viewBox='0 0 120 120'><rect x='10' y='10' width='100' height='100' fill='white' stroke='black' stroke-width='2'/><circle cx='60' cy='30' r='12' fill='black'/><circle cx='60' cy='90' r='12' fill='black'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h913",
+    "type": "spatial",
+    "subtype": "rotation-reflection",
+    "question": "Which figure shows the original after 135° clockwise rotation followed by vertical reflection?",
+    "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><polygon points='50,20 80,80 20,80' fill='#aaa' stroke='black' stroke-width='3'/><line x1='50' y1='20' x2='50' y2='80' stroke='black' stroke-width='4' stroke-dasharray='6,4'/></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 100 100'><polygon points='20,50 80,20 80,80' fill='#aaa' stroke='black' stroke-width='3'/><line x1='20' y1='50' x2='80' y2='50' stroke='black' stroke-width='4' stroke-dasharray='6,4'/></svg>",
+      "<svg viewBox='0 0 100 100'><polygon points='80,50 20,80 20,20' fill='#aaa' stroke='black' stroke-width='3'/><line x1='80' y1='50' x2='20' y2='50' stroke='black' stroke-width='4' stroke-dasharray='6,4'/></svg>",
+      "<svg viewBox='0 0 100 100'><polygon points='50,80 20,20 80,20' fill='#aaa' stroke='black' stroke-width='3'/><line x1='50' y1='80' x2='50' y2='20' stroke='black' stroke-width='4' stroke-dasharray='6,4'/></svg>",
+      "<svg viewBox='0 0 100 100'><polygon points='50,20 20,80 80,80' fill='#aaa' stroke='black' stroke-width='3'/><line x1='50' y1='20' x2='50' y2='80' stroke='black' stroke-width='4' stroke-dasharray='6,4'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "s-h914",
+    "type": "spatial",
+    "subtype": "rotation-reflection",
+    "question": "Which figure shows the original after a 90° clockwise rotation followed by a horizontal reflection?",
+    "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='30,30 70,30 50,80' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+    "imageOptions": [
+      "<svg viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='30,70 70,70 50,20' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='70,30 30,30 50,80' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='30,30 70,70 30,70' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>",
+      "<svg viewBox='0 0 100 100'><rect x='10' y='10' width='80' height='80' fill='none' stroke='black' stroke-width='3'/><polygon points='70,70 30,70 50,20' fill='#888' stroke='black' stroke-width='2'/><circle cx='50' cy='50' r='12' fill='white' stroke='black' stroke-width='2'/></svg>"
+    ],
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "v-501",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "PROFLIGATE : SOLVENT :: ________ : ________",
+    "options": [
+      "Indigent : Wealthy",
+      "Garrulous : Reticent",
+      "Mercurial : Fickle",
+      "Plausible : Credible",
+      "Voracious : Hungry",
+      "Cautious : Reckless"
+    ],
+    "answer": "Garrulous : Reticent"
+  },
+  {
+    "id": "n-502",
+    "type": "math",
+    "subtype": "probability",
+    "question": "A bag contains 4 red, 5 blue, and 3 green marbles. If three marbles are drawn at random without replacement, what is the probability that all three are different colors?",
+    "options": [
+      "1/11",
+      "3/11",
+      "5/11",
+      "2/11",
+      "1/22",
+      "3/22"
+    ],
+    "answer": "3/11"
+  },
+  {
+    "id": "l-503",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "If all Glips are Glops, and no Glops are Glatzi, and some Glatzi are Glunths, which must be true?",
+    "options": [
+      "Some Glunths are not Glips",
+      "No Glips are Glunths",
+      "All Glunths are Glops",
+      "Some Glips are Glatzi",
+      "No Glunths are Glips",
+      "None of the above"
+    ],
+    "answer": "Some Glunths are not Glips"
+  },
+  {
+    "id": "s-504",
+    "type": "spatial",
+    "subtype": "outlier",
+    "question": "Which of the following shapes is the odd one out based on rotational symmetry?",
+    "options": [
+      "Equilateral Triangle",
+      "Square",
+      "Regular Pentagon",
+      "Regular Hexagon",
+      "Isosceles Trapezoid",
+      "Circle"
+    ],
+    "answer": "Isosceles Trapezoid"
+  },
+  {
+    "id": "n-505",
+    "type": "math",
+    "subtype": "algebra",
+    "question": "A father is 3 times as old as his son. In 12 years, he will be twice as old as his son. How old is the father now?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42",
+      "48",
+      "54"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": "v-506",
+    "type": "verbal",
+    "subtype": "sentence_completion",
+    "question": "The senator's ________ speech was intended to ________ his critics, but instead it only fueled their resentment.",
+    "options": [
+      "conciliatory ... placate",
+      "inflammatory ... appease",
+      "laconic ... irritate",
+      "verbose ... enlighten",
+      "strident ... silence",
+      "pedantic ... confuse"
+    ],
+    "answer": "conciliatory ... placate"
+  },
+  {
+    "id": "n-507",
+    "type": "math",
+    "subtype": "series",
+    "question": "Complete the series: 2, 6, 12, 20, 30, 42, ?",
+    "options": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "64"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": "l-508",
+    "type": "logic",
+    "subtype": "syllogism",
+    "question": "All diamonds are hard. Some hard things are expensive. Therefore, diamonds are expensive.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "True only if all expensive things are hard",
+      "True only if some diamonds are expensive",
+      "None of the above"
+    ],
+    "answer": "Cannot be determined"
+  },
+  {
+    "id": "v-509",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of PULCHRITUDE?",
+    "options": [
+      "Ugliness",
+      "Grace",
+      "Strength",
+      "Wisdom",
+      "Humility",
+      "Clarity"
+    ],
+    "answer": "Ugliness"
+  },
+  {
+    "id": "n-510",
+    "type": "math",
+    "subtype": "percentage",
+    "question": "If the price of a stock increases by 20% and then decreases by 20%, what is the net change?",
+    "options": [
+      "0%",
+      "4% increase",
+      "4% decrease",
+      "2% decrease",
+      "2% increase",
+      "1% decrease"
+    ],
+    "answer": "4% decrease"
+  },
+  {
+    "id": "s-511",
+    "type": "spatial",
+    "subtype": "cube_folding",
+    "question": "If a cube is unfolded and shows a cross shape with symbols: Star (top), Circle (middle), Square (bottom), Triangle (left), Diamond (right). Which symbol is opposite the Triangle?",
+    "options": [
+      "Star",
+      "Circle",
+      "Square",
+      "Diamond",
+      "Bottom",
+      "None"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "id": "v-512",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "METAPHOR : SYMBOL :: ________ : ________",
+    "options": [
+      "Analogy : Comparison",
+      "Poetry : Prose",
+      "Punctuation : Grammar",
+      "Rhythm : Melody",
+      "Nuance : Subtlety",
+      "Satire : Irony"
+    ],
+    "answer": "Analogy : Comparison"
+  },
+  {
+    "id": "n-513",
+    "type": "math",
+    "subtype": "work_rate",
+    "question": "If 5 machines can produce 5 widgets in 5 minutes, how long does it take 100 machines to produce 100 widgets?",
+    "options": [
+      "100 minutes",
+      "50 minutes",
+      "20 minutes",
+      "10 minutes",
+      "5 minutes",
+      "1 minute"
+    ],
+    "answer": "5 minutes"
+  },
+  {
+    "id": "l-514",
+    "type": "logic",
+    "subtype": "conditional",
+    "question": "If it rains, the grass gets wet. The grass is wet. Therefore, it rained.",
+    "options": [
+      "Necessarily true",
+      "Necessarily false",
+      "Logically invalid",
+      "True if the grass is outdoors",
+      "True if there are no sprinklers",
+      "Cannot conclude"
+    ],
+    "answer": "Logically invalid"
+  },
+  {
+    "id": "v-515",
+    "type": "verbal",
+    "subtype": "vocabulary",
+    "question": "Choose the word most similar to PERSPICACIOUS:",
+    "options": [
+      "Transparent",
+      "Shrewd",
+      "Deceptive",
+      "Long-winded",
+      "Relevant",
+      "Careful"
+    ],
+    "answer": "Shrewd"
+  },
+  {
+    "id": "n-516",
+    "type": "math",
+    "subtype": "averages",
+    "question": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What was the removed number?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": "s-517",
+    "type": "spatial",
+    "subtype": "rotation",
+    "question": "A clock shows 3:00. If the clock is rotated 90 degrees counter-clockwise, what time does it appear to show?",
+    "options": [
+      "12:15",
+      "6:00",
+      "12:45",
+      "9:30",
+      "3:00",
+      "6:45"
+    ],
+    "answer": "6:45"
+  },
+  {
+    "id": "v-518",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "ENERVATE : VIGOR :: ________ : ________",
+    "options": [
+      "Dehydrate : Water",
+      "Elevate : Height",
+      "Amplify : Sound",
+      "Exacerbate : Pain",
+      "Consolidate : Power",
+      "Reiterate : Words"
+    ],
+    "answer": "Dehydrate : Water"
+  },
+  {
+    "id": "n-519",
+    "type": "math",
+    "subtype": "geometry",
+    "question": "What is the maximum number of pieces a pizza can be cut into with 4 straight cuts?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "16"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "l-520",
+    "type": "logic",
+    "subtype": "arrangement",
+    "question": "Five people (A, B, C, D, E) stand in line. A is not first. B is behind C. D is ahead of E but behind B. Who is second if C is first?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "Cannot be determined",
+      "None of the above"
+    ],
+    "answer": "B"
+  }
+]

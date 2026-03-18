@@ -5,14 +5,24 @@
       <div class="empty-icon">📋</div>
       <h2>No tests taken yet</h2>
       <p>Take your first CCAT practice test to start tracking your progress. 50 questions, 15 minutes.</p>
-      <NuxtLink to="/test" class="btn btn-primary btn-lg">Start Your First Test</NuxtLink>
+      <div class="dataset-toggle">
+        <button :class="['toggle-opt', { active: dataset === 'standard' }]" @click="dataset = 'standard'">Standard</button>
+        <button :class="['toggle-opt', { active: dataset === 'hard' }]" @click="dataset = 'hard'">Hard</button>
+      </div>
+      <button class="btn btn-primary btn-lg" @click="router.push(`/test?dataset=${dataset}`)">Start Your First Test</button>
     </div>
 
     <!-- Dashboard -->
     <div v-else>
       <div class="page-header">
         <h1>Dashboard</h1>
-        <NuxtLink to="/test" class="btn btn-primary">+ New Test</NuxtLink>
+        <div class="header-actions">
+          <div class="dataset-toggle">
+            <button :class="['toggle-opt', { active: dataset === 'standard' }]" @click="dataset = 'standard'">Standard</button>
+            <button :class="['toggle-opt', { active: dataset === 'hard' }]" @click="dataset = 'hard'">Hard</button>
+          </div>
+          <button class="btn btn-primary" @click="router.push(`/test?dataset=${dataset}`)">+ New Test</button>
+        </div>
       </div>
 
       <!-- Stats row -->
@@ -154,6 +164,9 @@
 </template>
 
 <script setup>
+const router = useRouter()
+const dataset = ref('standard')
+
 const { getResults, getAggregateStats, accuracyClass, getImprovementSuggestions } = useProgress()
 
 const results = computed(() => getResults())
@@ -178,6 +191,26 @@ function formatDuration(secs) {
   margin-bottom: 1.5rem;
 }
 .page-header h1 { font-size: 1.5rem; }
+.header-actions { display: flex; align-items: center; gap: 0.75rem; }
+
+.dataset-toggle {
+  display: flex;
+  border: 1.5px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.toggle-opt {
+  padding: 0.4rem 0.85rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  background: white;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  transition: background 0.12s, color 0.12s;
+}
+.toggle-opt + .toggle-opt { border-left: 1.5px solid var(--border); }
+.toggle-opt.active { background: var(--primary); color: white; }
 
 /* Empty state */
 .empty-state {

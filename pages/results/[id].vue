@@ -121,7 +121,8 @@
 </template>
 
 <script setup>
-import allQuestions from '~/data/questions.json'
+import standardQuestions from '~/data/questions.json'
+import hardQuestions from '~/data/questions-hard.json'
 
 const route = useRoute()
 const { getResultById, getResults, getTypeLabel, getSubtypeLabel, accuracyClass } = useProgress()
@@ -129,7 +130,7 @@ const { getResultById, getResults, getTypeLabel, getSubtypeLabel, accuracyClass 
 const result = computed(() => getResultById(route.params.id))
 const showReview = ref(false)
 
-const questionMap = Object.fromEntries(allQuestions.map(q => [q.id, q]))
+const questionMap = Object.fromEntries([...standardQuestions, ...hardQuestions].map(q => [q.id, q]))
 function getQuestion(id) { return questionMap[id] }
 
 // ── Ring chart ────────────────────────────────────────

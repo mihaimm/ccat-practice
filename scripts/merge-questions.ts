@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const questions1Path = path.join(__dirname, '../data/questions.json');
 const questions2Path = path.join(__dirname, '../data/questions2.json');
-const outputPath = path.join(__dirname, '../data/questions.merged.json');
+const outputPath = path.join(__dirname, '../data/questions.json');
 
 interface Question {
 	id: string;

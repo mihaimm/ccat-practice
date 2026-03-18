@@ -70,10 +70,14 @@
 </template>
 
 <script setup>
-import allQuestions from '~/data/questions.json'
+import standardQuestions from '~/data/questions.json'
+import hardQuestions from '~/data/questions-hard.json'
 
 const router = useRouter()
+const route = useRoute()
 const { saveResult, getSubtypeLabel } = useProgress()
+
+const allQuestions = route.query.dataset === 'hard' ? hardQuestions : standardQuestions
 
 // ── Test State ────────────────────────────────────────
 const TOTAL_TIME = 15 * 60 // 900s
@@ -117,7 +121,10 @@ function shuffleOptions(q) {
       answer: String.fromCharCode(65 + newCorrectIdx)
     }
   }
-  // Text questions: answer is the option text itself, so shuffling options is safe.
+  // Text questions: answer is the option text itself, so shuffling options is safe —
+  // unless options contain letter references like "A and C" (shuffling would make them wrong).
+  const hasLetterRefs = q.options.some(o => /\b[A-D] and [A-D]\b/.test(o))
+  if (hasLetterRefs) return q
   return { ...q, options: [...q.options].sort(() => Math.random() - 0.5) }
 }
 
@@ -179,7 +186,7 @@ function finishTest() {
   const score = allAnswers.filter(a => a.isCorrect).length
   const id = Date.now().toString()
 
-  saveResult({ id, date: new Date().toISOString(), durationSeconds: timeTaken, score, totalQuestions: 50, answers: allAnswers })
+  saveResult({ id, date: new Date().toISOString(), durationSeconds: timeTaken, score, totalQuestions: 50, answers: allAnswers, dataset: route.query.dataset || 'standard' })
   router.push(`/results/${id}`)
 }
 
