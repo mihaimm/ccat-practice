@@ -2324,7 +2324,7 @@
       "E",
       "B"
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "id": "s-010",
@@ -2610,7 +2610,7 @@
       "Mysterious",
       "Abundant"
     ],
-    "answer": "B"
+    "answer": "Short-lived"
   },
   {
     "id": "v-062",
@@ -2623,7 +2623,7 @@
       "Kind-hearted",
       "Timid"
     ],
-    "answer": "C"
+    "answer": "Kind-hearted"
   },
   {
     "id": "v-063",
@@ -2636,7 +2636,7 @@
       "Dishonest",
       "Energetic"
     ],
-    "answer": "A"
+    "answer": "Using few words"
   },
   {
     "id": "v-064",
@@ -2649,7 +2649,7 @@
       "Careless",
       "Generous"
     ],
-    "answer": "B"
+    "answer": "Persistent"
   },
   {
     "id": "v-065",
@@ -2662,7 +2662,7 @@
       "Open to more than one interpretation",
       "Certain"
     ],
-    "answer": "C"
+    "answer": "Open to more than one interpretation"
   },
   {
     "id": "v-066",
@@ -2675,7 +2675,7 @@
       "Wealthy",
       "Secretive"
     ],
-    "answer": "B"
+    "answer": "Thrifty"
   },
   {
     "id": "v-067",
@@ -2688,7 +2688,7 @@
       "Loud and forceful",
       "Intelligent"
     ],
-    "answer": "C"
+    "answer": "Loud and forceful"
   },
   {
     "id": "v-068",
@@ -2701,7 +2701,7 @@
       "Pessimistic",
       "Artistic"
     ],
-    "answer": "B"
+    "answer": "Practical"
   },
   {
     "id": "v-069",
@@ -2714,7 +2714,7 @@
       "Secretive",
       "Formal"
     ],
-    "answer": "B"
+    "answer": "Straightforward and honest"
   },
   {
     "id": "v-070",
@@ -2727,7 +2727,7 @@
       "Highly valued",
       "Complicated"
     ],
-    "answer": "B"
+    "answer": "No longer in use"
   },
   {
     "id": "v-071",
@@ -2740,7 +2740,7 @@
       "Neither the manager nor the employees has been informed.",
       "Neither the manager nor the employees is informed."
     ],
-    "answer": "B"
+    "answer": "Neither the manager nor the employees were informed."
   },
   {
     "id": "v-072",
@@ -2753,7 +2753,7 @@
       "Everyone must bring its own lunch.",
       "Both A and B are correct."
     ],
-    "answer": "D"
+    "answer": "Both A and B are correct."
   },
   {
     "id": "v-073",
@@ -2766,7 +2766,7 @@
       "The data are showing a clear trend.",
       "Both A and B are acceptable in formal writing."
     ],
-    "answer": "D"
+    "answer": "Both A and B are acceptable in formal writing."
   },
   {
     "id": "v-074",
@@ -2779,7 +2779,7 @@
       "To who did you speak?",
       "Both A and B are correct."
     ],
-    "answer": "D"
+    "answer": "Both A and B are correct."
   },
   {
     "id": "v-075",
@@ -2792,7 +2792,7 @@
       "Because she was running late, she missed the bus.",
       "She missed the bus because she was running late."
     ],
-    "answer": "B"
+    "answer": "Running late, the bus was missed by her."
   },
   {
     "id": "v-076",
@@ -2805,7 +2805,7 @@
       "He works harder than she does.",
       "He works more hard than she does."
     ],
-    "answer": "C"
+    "answer": "He works harder than she does."
   },
   {
     "id": "v-077",
@@ -2818,7 +2818,7 @@
       "If I am you, I would accept the offer.",
       "If I be you, I would accept the offer."
     ],
-    "answer": "B"
+    "answer": "If I were you, I would accept the offer."
   },
   {
     "id": "v-078",
@@ -2831,7 +2831,7 @@
       "The team plays good today.",
       "Both A and B are correct depending on dialect."
     ],
-    "answer": "D"
+    "answer": "Both A and B are correct depending on dialect."
   },
   {
     "id": "v-079",
@@ -2844,7 +2844,7 @@
       "Between you and myself, this is a mistake.",
       "Between I and you, this is a mistake."
     ],
-    "answer": "B"
+    "answer": "Between you and me, this is a mistake."
   },
   {
     "id": "v-080",
@@ -2857,7 +2857,7 @@
       "Laying down is beneficial.",
       "Both A and C are correct."
     ],
-    "answer": "B"
+    "answer": "Lie down and rest."
   },
   {
     "id": "m-071",
@@ -2870,7 +2870,7 @@
       "17 cm²",
       "120 cm²"
     ],
-    "answer": "B"
+    "answer": "60 cm²"
   },
   {
     "id": "m-072",
@@ -2883,7 +2883,7 @@
       "21.98 cm²",
       "44 cm²"
     ],
-    "answer": "B"
+    "answer": "153.86 cm²"
   },
   {
     "id": "m-073",
@@ -2896,7 +2896,7 @@
       "16 cm²",
       "120 cm²"
     ],
-    "answer": "B"
+    "answer": "30 cm²"
   },
   {
     "id": "m-074",
@@ -2909,7 +2909,7 @@
       "9 cm²",
       "144 cm²"
     ],
-    "answer": "A"
+    "answer": "81 cm²"
   },
   {
     "id": "m-075",
@@ -2922,7 +2922,7 @@
       "60°",
       "130°"
     ],
-    "answer": "B"
+    "answer": "50°"
   },
   {
     "id": "m-076",
@@ -2935,7 +2935,7 @@
       "100 m",
       "7 m"
     ],
-    "answer": "A"
+    "answer": "10 m"
   },
   {
     "id": "m-077",
@@ -2948,7 +2948,7 @@
       "78.5 cm",
       "62.8 cm"
     ],
-    "answer": "A"
+    "answer": "31.4 cm"
   },
   {
     "id": "m-078",
@@ -2961,7 +2961,7 @@
       "Straight",
       "Reflex"
     ],
-    "answer": "C"
+    "answer": "Straight"
   },
   {
     "id": "m-079",
@@ -2974,7 +2974,7 @@
       "64 cm³",
       "48 cm³"
     ],
-    "answer": "C"
+    "answer": "64 cm³"
   },
   {
     "id": "m-080",
@@ -2987,7 +2987,7 @@
       "60 cm²",
       "40 cm²"
     ],
-    "answer": "A"
+    "answer": "50 cm²"
   },
   {
     "id": "m-081",
@@ -3000,7 +3000,7 @@
       "1/4",
       "4/9"
     ],
-    "answer": "A"
+    "answer": "2/5"
   },
   {
     "id": "m-082",
@@ -3013,7 +3013,7 @@
       "1/2",
       "2/3"
     ],
-    "answer": "C"
+    "answer": "1/2"
   },
   {
     "id": "m-083",
@@ -3026,7 +3026,7 @@
       "3/4",
       "1/8"
     ],
-    "answer": "A"
+    "answer": "1/4"
   },
   {
     "id": "m-084",
@@ -3039,7 +3039,7 @@
       "8/12",
       "1/3"
     ],
-    "answer": "A"
+    "answer": "2/5"
   },
   {
     "id": "m-085",
@@ -3052,7 +3052,7 @@
       "2/3",
       "1/6"
     ],
-    "answer": "A"
+    "answer": "1/3"
   },
   {
     "id": "m-086",
@@ -3065,7 +3065,7 @@
       "3/4",
       "1/3"
     ],
-    "answer": "C"
+    "answer": "3/4"
   },
   {
     "id": "m-087",
@@ -3078,7 +3078,7 @@
       "1/4",
       "4/52 = 1/13"
     ],
-    "answer": "B"
+    "answer": "1/13"
   },
   {
     "id": "m-088",
@@ -3091,7 +3091,7 @@
       "3/10",
       "2/5"
     ],
-    "answer": "A"
+    "answer": "1/2"
   },
   {
     "id": "m-089",
@@ -3104,7 +3104,7 @@
       "0.1",
       "0.7"
     ],
-    "answer": "B"
+    "answer": "0.12"
   },
   {
     "id": "m-090",
@@ -3117,7 +3117,7 @@
       "3/20",
       "1/10"
     ],
-    "answer": "A"
+    "answer": "1/5"
   },
   {
     "id": "m-091",
@@ -3130,7 +3130,7 @@
       "35",
       "45"
     ],
-    "answer": "A"
+    "answer": "40"
   },
   {
     "id": "m-092",
@@ -3143,7 +3143,7 @@
       "25 g",
       "80 g"
     ],
-    "answer": "B"
+    "answer": "50 g"
   },
   {
     "id": "m-093",
@@ -3156,7 +3156,7 @@
       "16 days",
       "6 days"
     ],
-    "answer": "A"
+    "answer": "9 days"
   },
   {
     "id": "m-094",
@@ -3169,7 +3169,7 @@
       "200 km",
       "0.2 km"
     ],
-    "answer": "A"
+    "answer": "2 km"
   },
   {
     "id": "m-095",
@@ -3182,7 +3182,7 @@
       "1:3",
       "6:12"
     ],
-    "answer": "A"
+    "answer": "1:2"
   },
   {
     "id": "m-096",
@@ -3195,7 +3195,7 @@
       "$30",
       "$40"
     ],
-    "answer": "B"
+    "answer": "$36"
   },
   {
     "id": "m-097",
@@ -3208,7 +3208,7 @@
       "250 miles",
       "300 miles"
     ],
-    "answer": "C"
+    "answer": "250 miles"
   },
   {
     "id": "m-098",
@@ -3221,7 +3221,7 @@
       "3 kg",
       "5 kg"
     ],
-    "answer": "B"
+    "answer": "6 kg"
   },
   {
     "id": "m-099",
@@ -3234,7 +3234,7 @@
       "$21",
       "$24"
     ],
-    "answer": "C"
+    "answer": "$21"
   },
   {
     "id": "m-100",
@@ -3247,7 +3247,7 @@
       "100 litres",
       "120 litres"
     ],
-    "answer": "D"
+    "answer": "120 litres"
   },
   {
     "id": "l-041",
@@ -3260,7 +3260,7 @@
       "It definitely did not rain.",
       "The ground is always wet."
     ],
-    "answer": "B"
+    "answer": "It may or may not have rained."
   },
   {
     "id": "l-042",
@@ -3273,7 +3273,7 @@
       "Sarah organised Monday's meeting.",
       "Sarah is the only manager."
     ],
-    "answer": "A"
+    "answer": "Sarah attended Monday's meeting."
   },
   {
     "id": "l-043",
@@ -3286,7 +3286,7 @@
       "Shape X is not a square.",
       "Shape X is a parallelogram."
     ],
-    "answer": "B"
+    "answer": "Shape X may or may not be a square."
   },
   {
     "id": "l-044",
@@ -3299,7 +3299,7 @@
       "A sparrow is not a mammal.",
       "Some birds are mammals."
     ],
-    "answer": "C"
+    "answer": "A sparrow is not a mammal."
   },
   {
     "id": "l-045",
@@ -3312,7 +3312,7 @@
       "Tom definitely woke up.",
       "The alarm was broken."
     ],
-    "answer": "B"
+    "answer": "Tom may or may not have woken up."
   },
   {
     "id": "l-046",
@@ -3325,7 +3325,7 @@
       "Jake wants a promotion.",
       "Jake is the most experienced."
     ],
-    "answer": "B"
+    "answer": "Jake is eligible for promotion."
   },
   {
     "id": "l-047",
@@ -3338,7 +3338,7 @@
       "Both Q and R are true.",
       "Neither Q nor R is true."
     ],
-    "answer": "C"
+    "answer": "Both Q and R are true."
   },
   {
     "id": "l-048",
@@ -3351,7 +3351,7 @@
       "Maria may or may not earn over $80k.",
       "Maria does not earn over $80k."
     ],
-    "answer": "C"
+    "answer": "Maria may or may not earn over $80k."
   },
   {
     "id": "l-049",
@@ -3364,7 +3364,7 @@
       "Car Y may or may not be electric.",
       "All cars have exhaust pipes."
     ],
-    "answer": "C"
+    "answer": "Car Y may or may not be electric."
   },
   {
     "id": "l-050",
@@ -3377,7 +3377,7 @@
       "All Z are X.",
       "Some Z are Y."
     ],
-    "answer": "B"
+    "answer": "No X are Z."
   },
   {
     "id": "l-051",
@@ -3390,7 +3390,7 @@
       "All dogs are poodles.",
       "All food-needing creatures are dogs."
     ],
-    "answer": "A"
+    "answer": "A poodle is an animal that needs food."
   },
   {
     "id": "l-052",
@@ -3403,7 +3403,7 @@
       "Some geckos are warm-blooded.",
       "Warm-blooded animals are not reptiles."
     ],
-    "answer": "B"
+    "answer": "A gecko is not warm-blooded."
   },
   {
     "id": "l-053",
@@ -3416,7 +3416,7 @@
       "All fruits are yellow.",
       "A banana is not yellow."
     ],
-    "answer": "B"
+    "answer": "A banana reflects certain wavelengths of light if it is yellow."
   },
   {
     "id": "l-054",
@@ -3429,7 +3429,7 @@
       "17 is divisible by 3.",
       "17 is not prime."
     ],
-    "answer": "B"
+    "answer": "17 is odd."
   },
   {
     "id": "l-055",
@@ -3442,7 +3442,7 @@
       "Tom does not own a car.",
       "Tom may own a car."
     ],
-    "answer": "C"
+    "answer": "Tom does not own a car."
   },
   {
     "id": "l-056",
@@ -3455,7 +3455,7 @@
       "Lisa may or may not take an exam.",
       "All students take exams."
     ],
-    "answer": "C"
+    "answer": "Lisa may or may not take an exam."
   },
   {
     "id": "l-057",
@@ -3468,7 +3468,7 @@
       "'Moby Dick' may not be a book.",
       "All books are novels."
     ],
-    "answer": "B"
+    "answer": "'Moby Dick' is a book."
   },
   {
     "id": "l-058",
@@ -3481,7 +3481,7 @@
       "Some cows eat meat.",
       "Meat-eaters are herbivores."
     ],
-    "answer": "B"
+    "answer": "A cow does not eat meat."
   },
   {
     "id": "l-059",
@@ -3494,7 +3494,7 @@
       "Mark may have been on the project.",
       "Mark received something else."
     ],
-    "answer": "B"
+    "answer": "Mark was not on the project."
   },
   {
     "id": "l-060",
@@ -3507,7 +3507,7 @@
       "Chris may or may not avoid red meat.",
       "All athletes avoid red meat."
     ],
-    "answer": "C"
+    "answer": "Chris may or may not avoid red meat."
   },
   {
     "id": "s-031",
@@ -3520,7 +3520,7 @@
       "Triangle",
       "Diamond"
     ],
-    "answer": "B"
+    "answer": "Square"
   },
   {
     "id": "s-032",
@@ -3533,7 +3533,7 @@
       "3",
       "4"
     ],
-    "answer": "B"
+    "answer": "2"
   },
   {
     "id": "s-033",
@@ -3546,7 +3546,7 @@
       "3",
       "4"
     ],
-    "answer": "B"
+    "answer": "2"
   },
   {
     "id": "s-034",
@@ -3559,7 +3559,7 @@
       "Green",
       "Yellow"
     ],
-    "answer": "A"
+    "answer": "Red"
   },
   {
     "id": "s-035",
@@ -3572,7 +3572,7 @@
       "14",
       "16"
     ],
-    "answer": "B"
+    "answer": "12"
   },
   {
     "id": "s-036",
@@ -3585,7 +3585,7 @@
       "8",
       "9"
     ],
-    "answer": "D"
+    "answer": "9"
   },
   {
     "id": "s-037",
@@ -3598,7 +3598,7 @@
       "7",
       "8"
     ],
-    "answer": "B"
+    "answer": "6"
   },
   {
     "id": "s-038",
@@ -3611,7 +3611,7 @@
       "4",
       "5"
     ],
-    "answer": "B"
+    "answer": "3"
   },
   {
     "id": "s-039",
@@ -3624,7 +3624,7 @@
       "9",
       "10"
     ],
-    "answer": "C"
+    "answer": "9"
   },
   {
     "id": "s-040",
@@ -3637,7 +3637,7 @@
       "3",
       "4"
     ],
-    "answer": "B"
+    "answer": "2"
   },
   {
     "id": "s-041",
@@ -3650,7 +3650,7 @@
       "25",
       "30"
     ],
-    "answer": "C"
+    "answer": "25"
   },
   {
     "id": "s-042",
@@ -3663,7 +3663,7 @@
       "H",
       "I"
     ],
-    "answer": "C"
+    "answer": "H"
   },
   {
     "id": "s-043",
@@ -3676,7 +3676,7 @@
       "23",
       "25"
     ],
-    "answer": "B"
+    "answer": "21"
   },
   {
     "id": "s-044",
@@ -3689,7 +3689,7 @@
       "Black square",
       "White square"
     ],
-    "answer": "C"
+    "answer": "Black square"
   },
   {
     "id": "s-045",
@@ -3702,7 +3702,7 @@
       "7",
       "8"
     ],
-    "answer": "B"
+    "answer": "6"
   },
   {
     "id": "s-046",
@@ -3715,7 +3715,7 @@
       "F5",
       "E4"
     ],
-    "answer": "B"
+    "answer": "E5"
   },
   {
     "id": "s-047",
@@ -3728,7 +3728,7 @@
       "U5",
       "W5"
     ],
-    "answer": "B"
+    "answer": "V5"
   },
   {
     "id": "s-048",
@@ -3741,7 +3741,7 @@
       "H10",
       "J10"
     ],
-    "answer": "B"
+    "answer": "I10"
   },
   {
     "id": "s-049",
@@ -3754,7 +3754,7 @@
       "K15",
       "J14"
     ],
-    "answer": "B"
+    "answer": "J15"
   },
   {
     "id": "s-050",
@@ -3767,7 +3767,7 @@
       "D2",
       "C4"
     ],
-    "answer": "B"
+    "answer": "D1"
   },
   {
     "id": "s-051",
@@ -3780,7 +3780,7 @@
       "V23",
       "V22"
     ],
-    "answer": "B"
+    "answer": "W23"
   },
   {
     "id": "s-052",
@@ -3793,7 +3793,7 @@
       "F9",
       "E10"
     ],
-    "answer": "B"
+    "answer": "E9"
   },
   {
     "id": "s-053",
@@ -3806,7 +3806,7 @@
       "H15",
       "I16"
     ],
-    "answer": "B"
+    "answer": "I15"
   },
   {
     "id": "s-054",
@@ -3819,7 +3819,7 @@
       "F1",
       "D1"
     ],
-    "answer": "B"
+    "answer": "E1"
   },
   {
     "id": "s-055",
@@ -3832,7 +3832,7 @@
       "H25",
       "F25"
     ],
-    "answer": "B"
+    "answer": "G25"
   },
   {
     "id": "s-056",
@@ -3845,7 +3845,7 @@
       "EW",
       "EU"
     ],
-    "answer": "A"
+    "answer": "EV"
   },
   {
     "id": "s-057",
@@ -3858,7 +3858,7 @@
       "6I",
       "5J"
     ],
-    "answer": "A"
+    "answer": "5I"
   },
   {
     "id": "s-058",
@@ -3871,7 +3871,7 @@
       "F5V",
       "E5U"
     ],
-    "answer": "A"
+    "answer": "E5V"
   },
   {
     "id": "s-059",
@@ -3884,7 +3884,7 @@
       "AF5",
       "AD5"
     ],
-    "answer": "B"
+    "answer": "AE5"
   },
   {
     "id": "s-060",
@@ -3897,7 +3897,7 @@
       "I24",
       "I36"
     ],
-    "answer": "B"
+    "answer": "I48"
   },
   {
     "id": "img-001",
@@ -4498,5 +4498,3240 @@
       "D"
     ],
     "answer": "A"
+  },
+  {
+    "id": "m-101",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 0.15 multiplied by 40 and then divided by 2?",
+    "options": [
+      "3",
+      "4.5",
+      "6",
+      "1.5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "m-102",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "If a $120 item is marked up by 30%, what is the new price?",
+    "options": [
+      "$150",
+      "$156",
+      "$160",
+      "$144"
+    ],
+    "answer": "$156"
+  },
+  {
+    "id": "m-103",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Calculate: (14 * 3) + (18 / 6) - 5",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "45"
+    ],
+    "answer": "40"
+  },
+  {
+    "id": "m-104",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A car travels 15 miles in 20 minutes. What is its speed in mph?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "75"
+    ],
+    "answer": "45"
+  },
+  {
+    "id": "m-105",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "What is 12.5% of 800?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "125"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "m-106",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "0.004 * 2,000 = ?",
+    "options": [
+      "0.8",
+      "8",
+      "80",
+      "800"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "m-107",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "An employee’s salary increased from $40,000 to $46,000. What was the percentage increase?",
+    "options": [
+      "10%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "answer": "15%"
+  },
+  {
+    "id": "m-108",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is the average of 14, 26, and 41?",
+    "options": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": "m-109",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A tank is 2/5 full. Adding 12 gallons makes it 3/4 full. What is the total capacity?",
+    "options": [
+      "24",
+      "30",
+      "34.2",
+      "36"
+    ],
+    "answer": "34.2"
+  },
+  {
+    "id": "m-110",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "If 60% of a number is 42, what is 50% of that number?",
+    "options": [
+      "30",
+      "35",
+      "38",
+      "40"
+    ],
+    "answer": "35"
+  },
+  {
+    "id": "m-111",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Square root of 225 minus 7?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "m-112",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "A $250 coat is on sale for $175. What is the percentage discount?",
+    "options": [
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "answer": "30%"
+  },
+  {
+    "id": "m-113",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Evaluate: 0.5^3",
+    "options": [
+      "0.25",
+      "0.125",
+      "1.25",
+      "0.05"
+    ],
+    "answer": "0.125"
+  },
+  {
+    "id": "m-114",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "If 3 apples cost $1.20, how much do 15 apples cost?",
+    "options": [
+      "$5.00",
+      "$6.00",
+      "$7.20",
+      "$8.00"
+    ],
+    "answer": "$6.00"
+  },
+  {
+    "id": "m-115",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "What is 2/3 as a percentage (rounded)?",
+    "options": [
+      "60%",
+      "66%",
+      "67%",
+      "70%"
+    ],
+    "answer": "67%"
+  },
+  {
+    "id": "m-116",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "(12 * 12) / 3 + 12 = ?",
+    "options": [
+      "48",
+      "60",
+      "72",
+      "36"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "m-117",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "20 is what percent of 25?",
+    "options": [
+      "75%",
+      "80%",
+      "85%",
+      "90%"
+    ],
+    "answer": "80%"
+  },
+  {
+    "id": "m-118",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 1.2 divided by 0.03?",
+    "options": [
+      "4",
+      "40",
+      "400",
+      "0.4"
+    ],
+    "answer": "40"
+  },
+  {
+    "id": "m-119",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A train travels 300km at 60km/h and returns at 100km/h. Average speed?",
+    "options": [
+      "75",
+      "80",
+      "70",
+      "85"
+    ],
+    "answer": "75"
+  },
+  {
+    "id": "m-120",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "A population grows by 10% each year. If it starts at 1,000, what is it after 2 years?",
+    "options": [
+      "1,200",
+      "1,210",
+      "1,100",
+      "1,220"
+    ],
+    "answer": "1,210"
+  },
+  {
+    "id": "m-121",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "3.5 * 4.2 = ?",
+    "options": [
+      "14.7",
+      "15.2",
+      "13.9",
+      "14.1"
+    ],
+    "answer": "14.7"
+  },
+  {
+    "id": "m-122",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "If 4 students fail a class of 25, what percentage passed?",
+    "options": [
+      "16%",
+      "80%",
+      "84%",
+      "88%"
+    ],
+    "answer": "84%"
+  },
+  {
+    "id": "m-123",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Sum of 1/4 and 1/8 and 1/16?",
+    "options": [
+      "3/8",
+      "7/16",
+      "5/16",
+      "1/2"
+    ],
+    "answer": "7/16"
+  },
+  {
+    "id": "m-124",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "Machine A produces 50 units/hr. Machine B produces 30 units/hr. Together, how long for 240 units?",
+    "options": [
+      "3 hrs",
+      "4 hrs",
+      "5 hrs",
+      "8 hrs"
+    ],
+    "answer": "3 hrs"
+  },
+  {
+    "id": "m-125",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "What is 150% of 40?",
+    "options": [
+      "20",
+      "50",
+      "60",
+      "80"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "m-126",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Subtract 4,892 from 10,000.",
+    "options": [
+      "5,108",
+      "6,108",
+      "5,218",
+      "5,118"
+    ],
+    "answer": "5,108"
+  },
+  {
+    "id": "m-127",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "Reduce 120 by 15%.",
+    "options": [
+      "100",
+      "102",
+      "105",
+      "108"
+    ],
+    "answer": "102"
+  },
+  {
+    "id": "m-128",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "0.8 * 0.7 * 0.6 = ?",
+    "options": [
+      "0.336",
+      "0.42",
+      "0.48",
+      "0.330"
+    ],
+    "answer": "0.336"
+  },
+  {
+    "id": "m-129",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A cyclist covers 4 miles in 12 minutes. Distance in 1 hour?",
+    "options": [
+      "12 miles",
+      "20 miles",
+      "24 miles",
+      "30 miles"
+    ],
+    "answer": "20 miles"
+  },
+  {
+    "id": "m-130",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "Price goes from $80 to $100. % change?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "id": "m-131",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "(25 * 4) + (50 * 2) - 150 = ?",
+    "options": [
+      "0",
+      "50",
+      "100",
+      "150"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": "m-132",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "What is 0.5% of 2,000?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "0.1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "m-133",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Which is larger: 0.65 or 5/8?",
+    "options": [
+      "0.65",
+      "5/8",
+      "They are equal",
+      "Cannot be determined"
+    ],
+    "answer": "0.65"
+  },
+  {
+    "id": "m-134",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "If a pipe fills a pool in 8 hours, what fraction is filled in 2 hours?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "1/8"
+    ],
+    "answer": "1/4"
+  },
+  {
+    "id": "m-135",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "30% of x is 90. What is x?",
+    "options": [
+      "200",
+      "270",
+      "300",
+      "330"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "m-136",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "(9 * 8) - (7 * 6) + 10 = ?",
+    "options": [
+      "30",
+      "40",
+      "42",
+      "50"
+    ],
+    "answer": "40"
+  },
+  {
+    "id": "m-137",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "If sales tax is 8%, what is the tax on a $45 purchase?",
+    "options": [
+      "$3.20",
+      "$3.40",
+      "$3.60",
+      "$3.80"
+    ],
+    "answer": "$3.60"
+  },
+  {
+    "id": "m-138",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Divide 1,000 by 0.25.",
+    "options": [
+      "250",
+      "400",
+      "2,500",
+      "4,000"
+    ],
+    "answer": "4,000"
+  },
+  {
+    "id": "m-139",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A recipe needs 2.5 cups of flour for 10 cookies. How much flour for 30?",
+    "options": [
+      "5",
+      "6.5",
+      "7.5",
+      "8.5"
+    ],
+    "answer": "7.5"
+  },
+  {
+    "id": "m-140",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "What is 10% of 20% of 1,000?",
+    "options": [
+      "2",
+      "20",
+      "200",
+      "50"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "m-141",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Average of 0.5, 1.5, 2.5, and 3.5?",
+    "options": [
+      "1.5",
+      "2",
+      "2.5",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "m-142",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "Convert 0.005 to a percentage.",
+    "options": [
+      "5%",
+      "0.5%",
+      "0.05%",
+      "50%"
+    ],
+    "answer": "0.5%"
+  },
+  {
+    "id": "m-143",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "(15^2) / 5 = ?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "75"
+    ],
+    "answer": "45"
+  },
+  {
+    "id": "m-144",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "If 4 men can dig a hole in 3 hours, how long for 2 men?",
+    "options": [
+      "1.5 hrs",
+      "4 hrs",
+      "6 hrs",
+      "9 hrs"
+    ],
+    "answer": "6 hrs"
+  },
+  {
+    "id": "m-145",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "If a price is reduced by 50% then increased by 50%, the final price is:",
+    "options": [
+      "100% of original",
+      "75% of original",
+      "125% of original",
+      "50% of original"
+    ],
+    "answer": "75% of original"
+  },
+  {
+    "id": "m-146",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "144 / 12 * 3 = ?",
+    "options": [
+      "4",
+      "36",
+      "48",
+      "12"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": "m-147",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "What is 40% of 1/4?",
+    "options": [
+      "0.1",
+      "0.25",
+      "0.04",
+      "0.4"
+    ],
+    "answer": "0.1"
+  },
+  {
+    "id": "m-148",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "0.1 + 0.11 + 0.111 = ?",
+    "options": [
+      "0.321",
+      "0.333",
+      "0.123",
+      "0.311"
+    ],
+    "answer": "0.321"
+  },
+  {
+    "id": "m-149",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "Total cost of 3 items at $4.50 each and 2 items at $6.25 each?",
+    "options": [
+      "$24.50",
+      "$26.00",
+      "$27.00",
+      "$28.50"
+    ],
+    "answer": "$26.00"
+  },
+  {
+    "id": "m-150",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "Final price of $50 after 10% tax and 10% tip (on original)?",
+    "options": [
+      "$55",
+      "$60",
+      "$61",
+      "$60.50"
+    ],
+    "answer": "$60"
+  },
+  {
+    "id": "v-081",
+    "type": "verbal",
+    "subtype": "synonym",
+    "question": "Select the word closest in meaning to 'abundant'.",
+    "options": [
+      "scarce",
+      "plentiful",
+      "rare",
+      "empty"
+    ],
+    "answer": "plentiful"
+  },
+  {
+    "id": "v-082",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Select the word opposite in meaning to 'opaque'.",
+    "options": [
+      "transparent",
+      "solid",
+      "dark",
+      "thick"
+    ],
+    "answer": "transparent"
+  },
+  {
+    "id": "m-151",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 15% of 240?",
+    "options": [
+      "30",
+      "36",
+      "40",
+      "45"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": "m-152",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A train travels 60 km in 45 minutes. What is its average speed in km/h?",
+    "options": [
+      "70",
+      "75",
+      "80",
+      "90"
+    ],
+    "answer": "80"
+  },
+  {
+    "id": "m-153",
+    "type": "math",
+    "subtype": "number-series",
+    "question": "What number comes next in the series: 3, 6, 12, 24, ___?",
+    "options": [
+      "36",
+      "40",
+      "48",
+      "60"
+    ],
+    "answer": "48"
+  },
+  {
+    "id": "l-061",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "What comes next in the sequence: A, C, F, J, ___?",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "answer": "O"
+  },
+  {
+    "id": "l-062",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All roses are flowers. Some flowers fade quickly. Which statement must be true?",
+    "options": [
+      "All roses fade quickly",
+      "Some roses fade quickly",
+      "No roses fade quickly",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "id": "m-154",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If x + 3 = 11, what is x?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "v-083",
+    "type": "verbal",
+    "subtype": "synonym",
+    "question": "Select the word closest in meaning to 'mitigate'.",
+    "options": [
+      "worsen",
+      "alleviate",
+      "ignore",
+      "delay"
+    ],
+    "answer": "alleviate"
+  },
+  {
+    "id": "v-084",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Select the opposite of 'lucid'.",
+    "options": [
+      "clear",
+      "confusing",
+      "bright",
+      "simple"
+    ],
+    "answer": "confusing"
+  },
+  {
+    "id": "v-085",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "Seed is to tree as egg is to ___.",
+    "options": [
+      "bird",
+      "nest",
+      "feather",
+      "wing"
+    ],
+    "answer": "bird"
+  },
+  {
+    "id": "v-086",
+    "type": "verbal",
+    "subtype": "synonym",
+    "question": "Closest meaning to 'candid'.",
+    "options": [
+      "secretive",
+      "honest",
+      "careful",
+      "angry"
+    ],
+    "answer": "honest"
+  },
+  {
+    "id": "v-087",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Opposite of 'scarce'.",
+    "options": [
+      "rare",
+      "plentiful",
+      "small",
+      "weak"
+    ],
+    "answer": "plentiful"
+  },
+  {
+    "id": "v-088",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "Knife is to cut as pen is to ___.",
+    "options": [
+      "draw",
+      "write",
+      "ink",
+      "paper"
+    ],
+    "answer": "write"
+  },
+  {
+    "id": "v-089",
+    "type": "verbal",
+    "subtype": "synonym",
+    "question": "Closest meaning to 'obscure'.",
+    "options": [
+      "hidden",
+      "bright",
+      "known",
+      "simple"
+    ],
+    "answer": "hidden"
+  },
+  {
+    "id": "v-090",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "Opposite of 'expand'.",
+    "options": [
+      "grow",
+      "stretch",
+      "contract",
+      "increase"
+    ],
+    "answer": "contract"
+  },
+  {
+    "id": "m-155",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 18% of 350?",
+    "options": [
+      "54",
+      "63",
+      "72",
+      "81"
+    ],
+    "answer": "63"
+  },
+  {
+    "id": "m-156",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A car travels 150 km in 2 hours. What is its average speed?",
+    "options": [
+      "60",
+      "70",
+      "75",
+      "80"
+    ],
+    "answer": "75"
+  },
+  {
+    "id": "m-157",
+    "type": "math",
+    "subtype": "number-series",
+    "question": "2, 6, 7, 21, 22, 66, ___",
+    "options": [
+      "67",
+      "68",
+      "70",
+      "72"
+    ],
+    "answer": "67"
+  },
+  {
+    "id": "m-158",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If 3x - 5 = 16, what is x?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "m-159",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 25% of 480?",
+    "options": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "answer": "120"
+  },
+  {
+    "id": "m-160",
+    "type": "math",
+    "subtype": "number-series",
+    "question": "5, 10, 20, 40, ___",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "answer": "80"
+  },
+  {
+    "id": "m-161",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "If 5 workers complete a task in 12 days, how many days for 10 workers?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "m-162",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 7² + 6²?",
+    "options": [
+      "61",
+      "73",
+      "85",
+      "97"
+    ],
+    "answer": "85"
+  },
+  {
+    "id": "m-163",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If x/4 = 5, what is x?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "m-164",
+    "type": "math",
+    "subtype": "number-series",
+    "question": "1, 4, 9, 16, ___",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": "m-165",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 12% of 250?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": "30"
+  },
+  {
+    "id": "m-166",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A train travels 90 km in 1.5 hours. Speed?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "m-167",
+    "type": "math",
+    "subtype": "number-series",
+    "question": "3, 9, 27, 81, ___",
+    "options": [
+      "162",
+      "200",
+      "243",
+      "300"
+    ],
+    "answer": "243"
+  },
+  {
+    "id": "m-168",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 45% of 200?",
+    "options": [
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "id": "m-169",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If 2x + 4 = 14, x = ?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "m-170",
+    "type": "math",
+    "subtype": "number-series",
+    "question": "8, 6, 9, 7, 10, ___",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "m-171",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 9 × 8 + 6?",
+    "options": [
+      "70",
+      "72",
+      "78",
+      "80"
+    ],
+    "answer": "78"
+  },
+  {
+    "id": "l-063",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "A, D, H, M, ___",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "answer": "S"
+  },
+  {
+    "id": "l-064",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All cats are mammals. Some mammals are black. Which must be true?",
+    "options": [
+      "All cats are black",
+      "Some cats are black",
+      "No cats are black",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "id": "l-065",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Which does not belong?",
+    "options": [
+      "apple",
+      "banana",
+      "carrot",
+      "grape"
+    ],
+    "answer": "carrot"
+  },
+  {
+    "id": "l-066",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "2, 5, 11, 23, ___",
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "answer": "47"
+  },
+  {
+    "id": "l-067",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All A are B. All B are C. Which is true?",
+    "options": [
+      "All A are C",
+      "All C are A",
+      "Some C are A",
+      "None"
+    ],
+    "answer": "All A are C"
+  },
+  {
+    "id": "l-068",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Which word differs?",
+    "options": [
+      "run",
+      "jump",
+      "swim",
+      "book"
+    ],
+    "answer": "book"
+  },
+  {
+    "id": "l-069",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Z, X, U, Q, ___",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "answer": "L"
+  },
+  {
+    "id": "l-070",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Some dogs are brown. All brown things are soft. Which must be true?",
+    "options": [
+      "All dogs are soft",
+      "Some dogs are soft",
+      "No dogs are soft",
+      "None"
+    ],
+    "answer": "Some dogs are soft"
+  },
+  {
+    "id": "l-071",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Find the odd one.",
+    "options": [
+      "square",
+      "triangle",
+      "circle",
+      "line"
+    ],
+    "answer": "line"
+  },
+  {
+    "id": "l-072",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "1, 1, 2, 3, 5, 8, ___",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "l-073",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "4, 6, 9, 13, ___",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "l-074",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All flowers need water. Roses are flowers. Therefore:",
+    "options": [
+      "Roses need water",
+      "Flowers are roses",
+      "Water is a flower",
+      "None"
+    ],
+    "answer": "Roses need water"
+  },
+  {
+    "id": "l-075",
+    "type": "verbal",
+    "subtype": "odd-one-out",
+    "question": "Odd one out:",
+    "options": [
+      "red",
+      "blue",
+      "green",
+      "circle"
+    ],
+    "answer": "circle"
+  },
+  {
+    "id": "l-076",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "3, 6, 18, 72, ___",
+    "options": [
+      "144",
+      "216",
+      "288",
+      "360"
+    ],
+    "answer": "360"
+  },
+  {
+    "id": "l-077",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "If all X are Y and some Y are Z, then:",
+    "options": [
+      "Some X are Z",
+      "All X are Z",
+      "No X are Z",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined"
+  },
+  {
+    "id": "l-078",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "7, 14, 13, 26, 25, ___",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": "l-079",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "10, 20, 19, 38, 37, ___",
+    "options": [
+      "70",
+      "72",
+      "74",
+      "76"
+    ],
+    "answer": "74"
+  },
+  {
+    "id": "l-080",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All birds have wings. Penguins are birds. Therefore:",
+    "options": [
+      "Penguins have wings",
+      "Penguins can fly",
+      "Birds are penguins",
+      "None"
+    ],
+    "answer": "Penguins have wings"
+  },
+  {
+    "id": "l-081",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "1, 3, 6, 10, 15, ___",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "answer": "21"
+  },
+  {
+    "id": "m-172",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "A store buys a product for $40 and sells it for $64. What is the percentage of profit?",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "64%"
+    ],
+    "answer": "60%"
+  },
+  {
+    "id": "v-091",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "CANDID : INDIRECT :: HONEST :",
+    "options": [
+      "Frank",
+      "Deceptive",
+      "Blunt",
+      "Sincere"
+    ],
+    "answer": "Deceptive"
+  },
+  {
+    "id": "l-082",
+    "type": "spatial",
+    "subtype": "number-series",
+    "question": "Which number comes next in the sequence: 4, 9, 16, 25, 36, ...",
+    "options": [
+      "42",
+      "49",
+      "54",
+      "64"
+    ],
+    "answer": "49"
+  },
+  {
+    "id": "m-173",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "If a car travels at 45 mph, how many miles will it travel in 20 minutes?",
+    "options": [
+      "9",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "v-092",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of REVERE?",
+    "options": [
+      "Respect",
+      "Despise",
+      "Cherish",
+      "Admire"
+    ],
+    "answer": "Despise"
+  },
+  {
+    "id": "m-174",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Find x: 3x + 7 = 5x - 9",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "v-093",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'to spread through every part of'?",
+    "options": [
+      "Pervade",
+      "Efface",
+      "Dilate",
+      "Mitigate"
+    ],
+    "answer": "Pervade"
+  },
+  {
+    "id": "m-175",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 15% of 300 minus 12?",
+    "options": [
+      "33",
+      "45",
+      "38",
+      "42"
+    ],
+    "answer": "33"
+  },
+  {
+    "id": "v-094",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "TAILOR : SUIT :: BAKER :",
+    "options": [
+      "Oven",
+      "Flour",
+      "Bread",
+      "Wheat"
+    ],
+    "answer": "Bread"
+  },
+  {
+    "id": "m-176",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A plane flies 1200 miles in 3 hours. How far does it fly in 45 minutes?",
+    "options": [
+      "250",
+      "300",
+      "350",
+      "400"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "l-083",
+    "type": "spatial",
+    "subtype": "number-series",
+    "question": "1, 3, 7, 15, 31, ...",
+    "options": [
+      "45",
+      "52",
+      "63",
+      "64"
+    ],
+    "answer": "63"
+  },
+  {
+    "id": "v-095",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The CEO’s speech was _____, leaving the board members confused about the next steps.",
+    "options": [
+      "Lucid",
+      "Ambiguous",
+      "Concise",
+      "Eloquent"
+    ],
+    "answer": "Ambiguous"
+  },
+  {
+    "id": "m-177",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "Which is the largest?",
+    "options": [
+      "3/4",
+      "5/8",
+      "2/3",
+      "7/10"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "id": "m-178",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "0.5 x 0.002 = ?",
+    "options": [
+      "0.01",
+      "0.001",
+      "0.0001",
+      "0.1"
+    ],
+    "answer": "0.001"
+  },
+  {
+    "id": "v-096",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "MELLIFLUOUS : SOUND :: SAVORY :",
+    "options": [
+      "Sight",
+      "Smell",
+      "Taste",
+      "Touch"
+    ],
+    "answer": "Taste"
+  },
+  {
+    "id": "m-179",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A jacket is discounted by 20% and now costs $160. What was the original price?",
+    "options": [
+      "$180",
+      "$200",
+      "$220",
+      "$240"
+    ],
+    "answer": "$200"
+  },
+  {
+    "id": "l-084",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All dogs are mammals. Some mammals are cats. All dogs are cats.",
+    "options": [
+      "True",
+      "False",
+      "Insufficient Information"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "v-097",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of LETHARGIC?",
+    "options": [
+      "Sluggish",
+      "Energetic",
+      "Dull",
+      "Passive"
+    ],
+    "answer": "Energetic"
+  },
+  {
+    "id": "m-180",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "How many inches are in 2.5 yards?",
+    "options": [
+      "30",
+      "60",
+      "75",
+      "90"
+    ],
+    "answer": "90"
+  },
+  {
+    "id": "m-181",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "The average of 3 numbers is 18. If two of the numbers are 12 and 22, what is the third?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "v-098",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "SCALPEL : SURGEON :: GAVEL :",
+    "options": [
+      "Lawyer",
+      "Jury",
+      "Judge",
+      "Witness"
+    ],
+    "answer": "Judge"
+  },
+  {
+    "id": "l-085",
+    "type": "spatial",
+    "subtype": "number-series",
+    "question": "81, 27, 9, 3, ...",
+    "options": [
+      "1",
+      "0",
+      "-3",
+      "1/3"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-182",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A printer can print 12 pages per minute. How long will it take to print 180 pages?",
+    "options": [
+      "10 min",
+      "12 min",
+      "15 min",
+      "18 min"
+    ],
+    "answer": "15 min"
+  },
+  {
+    "id": "v-099",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of EPHEMERAL?",
+    "options": [
+      "Short-lived",
+      "Eternal",
+      "Frail",
+      "Vague"
+    ],
+    "answer": "Eternal"
+  },
+  {
+    "id": "m-183",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "(12 * 4) / (16 / 2) = ?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "v-100",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word describes someone who is overly concerned with formal rules?",
+    "options": [
+      "Pedantic",
+      "Altruistic",
+      "Stoic",
+      "Capricious"
+    ],
+    "answer": "Pedantic"
+  },
+  {
+    "id": "m-184",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "12 is what percent of 60?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": "20%"
+  },
+  {
+    "id": "m-185",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "If apples cost $1.50 per pound, how many pounds can you buy with $12?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "v-101",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "WHEAT : BREAD :: STEEL :",
+    "options": [
+      "Iron",
+      "Bridge",
+      "Ore",
+      "Mining"
+    ],
+    "answer": "Bridge"
+  },
+  {
+    "id": "m-186",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If y = 3x - 5 and x = 4, what is y?",
+    "options": [
+      "7",
+      "9",
+      "12",
+      "17"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "v-102",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of ABSTAIN?",
+    "options": [
+      "Refrain",
+      "Indulge",
+      "Avoid",
+      "Quit"
+    ],
+    "answer": "Indulge"
+  },
+  {
+    "id": "l-086",
+    "type": "spatial",
+    "subtype": "number-series",
+    "question": "2, 5, 11, 23, ...",
+    "options": [
+      "35",
+      "41",
+      "47",
+      "52"
+    ],
+    "answer": "47"
+  },
+  {
+    "id": "m-187",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Divide 0.8 by 0.04.",
+    "options": [
+      "2",
+      "20",
+      "200",
+      "0.2"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "v-103",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The team’s performance was _____, leading to a landslide victory.",
+    "options": [
+      "Mediocre",
+      "Stellar",
+      "Abysmal",
+      "Erratic"
+    ],
+    "answer": "Stellar"
+  },
+  {
+    "id": "m-188",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A tank is 1/4 full. Adding 15 gallons makes it 1/2 full. Capacity?",
+    "options": [
+      "30",
+      "45",
+      "60",
+      "75"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "v-104",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "COBBLER : SHOES :: CARTOGRAPHER :",
+    "options": [
+      "Graphs",
+      "Maps",
+      "Books",
+      "Clocks"
+    ],
+    "answer": "Maps"
+  },
+  {
+    "id": "m-189",
+    "type": "math",
+    "subtype": "fractions-percentages",
+    "question": "Increase 80 by 25%.",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "l-087",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "No birds are mammals. A bat is a mammal. Therefore, a bat is not a bird.",
+    "options": [
+      "True",
+      "False",
+      "Insufficient Information"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "m-190",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "Square root of (36 + 64) is?",
+    "options": [
+      "10",
+      "14",
+      "25",
+      "100"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "v-105",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of ZENITH?",
+    "options": [
+      "Peak",
+      "Acme",
+      "Nadir",
+      "Summit"
+    ],
+    "answer": "Nadir"
+  },
+  {
+    "id": "m-191",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A train is 200m long and passes a pole in 10s. Speed in m/s?",
+    "options": [
+      "10",
+      "20",
+      "40",
+      "50"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "v-106",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'to reduce in force or intensity'?",
+    "options": [
+      "Mitigate",
+      "Augment",
+      "Provoke",
+      "Sustain"
+    ],
+    "answer": "Mitigate"
+  },
+  {
+    "id": "l-088",
+    "type": "spatial",
+    "subtype": "number-series",
+    "question": "100, 98, 94, 88, 80, ...",
+    "options": [
+      "72",
+      "70",
+      "68",
+      "66"
+    ],
+    "answer": "70"
+  },
+  {
+    "id": "m-192",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "What is 2/5 of 150?",
+    "options": [
+      "30",
+      "60",
+      "75",
+      "90"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "v-107",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "EXTOL : CRITICIZE :: ENHANCE :",
+    "options": [
+      "Improve",
+      "Worsen",
+      "Magnify",
+      "Praise"
+    ],
+    "answer": "Worsen"
+  },
+  {
+    "id": "m-193",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If 2a + 3b = 13 and b = 3, find a.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "v-108",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of GREGARIOUS?",
+    "options": [
+      "Sociable",
+      "Introverted",
+      "Friendly",
+      "Lively"
+    ],
+    "answer": "Introverted"
+  },
+  {
+    "id": "m-194",
+    "type": "math",
+    "subtype": "word-problem",
+    "question": "A clock loses 5 minutes every hour. In 12 hours, how many minutes are lost?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "s-061",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which shape does not belong?",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Line"
+    ],
+    "answer": "Line"
+  },
+  {
+    "id": "s-062",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "A square is rotated 90 degrees clockwise three times. What is its final orientation?",
+    "options": [
+      "90 deg CW",
+      "180 deg CW",
+      "270 deg CW",
+      "Original position"
+    ],
+    "answer": "270 deg CW"
+  },
+  {
+    "id": "s-063",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Sequence: 1 arrow up, 2 arrows right, 3 arrows down. What is next?",
+    "options": [
+      "1 arrow left",
+      "4 arrows left",
+      "4 arrows up",
+      "5 arrows right"
+    ],
+    "answer": "4 arrows left"
+  },
+  {
+    "id": "s-064",
+    "type": "spatial",
+    "subtype": "matrix",
+    "question": "Top row: Circle, Square. Bottom row: Semi-circle, ?",
+    "options": [
+      "Rectangle",
+      "Triangle",
+      "Line",
+      "Hexagon"
+    ],
+    "answer": "Rectangle"
+  },
+  {
+    "id": "s-065",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which is different?",
+    "options": [
+      "Equilateral Triangle",
+      "Isosceles Triangle",
+      "Scalene Triangle",
+      "Right Angle"
+    ],
+    "answer": "Right Angle"
+  },
+  {
+    "id": "s-066",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "If a piece of paper is folded in half and a hole is punched, how many holes appear when unfolded?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "s-067",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "A 'Z' shape is mirrored horizontally. What letter does it most resemble?",
+    "options": [
+      "S",
+      "Z",
+      "N",
+      "M"
+    ],
+    "answer": "S"
+  },
+  {
+    "id": "s-068",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Pattern: Solid circle, Striped circle, Empty circle, Solid square...",
+    "options": [
+      "Solid square",
+      "Striped square",
+      "Empty square",
+      "Solid triangle"
+    ],
+    "answer": "Striped square"
+  },
+  {
+    "id": "s-069",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "Which 3D shape has 6 faces, 12 edges, and 8 vertices?",
+    "options": [
+      "Pyramid",
+      "Cube",
+      "Cylinder",
+      "Sphere"
+    ],
+    "answer": "Cube"
+  },
+  {
+    "id": "s-070",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which does not fit?",
+    "options": [
+      "Pentagon",
+      "Hexagon",
+      "Septagon",
+      "Octagon"
+    ],
+    "answer": "Septagon"
+  },
+  {
+    "id": "s-071",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Circle : Sphere :: Square :",
+    "options": [
+      "Cube",
+      "Line",
+      "Box",
+      "Pyramid"
+    ],
+    "answer": "Cube"
+  },
+  {
+    "id": "s-072",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "If a clock reads 3:00, what is the angle between the hands?",
+    "options": [
+      "45 deg",
+      "90 deg",
+      "120 deg",
+      "180 deg"
+    ],
+    "answer": "90 deg"
+  },
+  {
+    "id": "s-073",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Dot moves clockwise around the corners of a square. If it starts Top-Left, where is it at step 5?",
+    "options": [
+      "Top-Left",
+      "Top-Right",
+      "Bottom-Right",
+      "Bottom-Left"
+    ],
+    "answer": "Top-Right"
+  },
+  {
+    "id": "s-074",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which shape has the most sides?",
+    "options": [
+      "Trapezoid",
+      "Rhombus",
+      "Pentagon",
+      "Parallelogram"
+    ],
+    "answer": "Pentagon"
+  },
+  {
+    "id": "s-075",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "A cube is unfolded. How many squares make up the net?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "s-076",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Triangle : 180 degrees :: Quadrilateral :",
+    "options": [
+      "180",
+      "270",
+      "360",
+      "540"
+    ],
+    "answer": "360"
+  },
+  {
+    "id": "s-077",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "Rotate 'L' 180 degrees. It looks like:",
+    "options": [
+      "Upside down L",
+      "Reflected L",
+      "7",
+      "V"
+    ],
+    "answer": "Upside down L"
+  },
+  {
+    "id": "s-078",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Sequence of sides: 3, 4, 5, 6... Next shape?",
+    "options": [
+      "Hexagon",
+      "Heptagon",
+      "Octagon",
+      "Nonagon"
+    ],
+    "answer": "Heptagon"
+  },
+  {
+    "id": "s-079",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which is not a quadrilateral?",
+    "options": [
+      "Rhombus",
+      "Trapezoid",
+      "Delta",
+      "Hexagon"
+    ],
+    "answer": "Hexagon"
+  },
+  {
+    "id": "s-080",
+    "type": "spatial",
+    "subtype": "matrix",
+    "question": "Black square, White square, Black square, ?",
+    "options": [
+      "Black circle",
+      "White square",
+      "White circle",
+      "Black square"
+    ],
+    "answer": "White square"
+  },
+  {
+    "id": "s-081",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Point : Line :: Line :",
+    "options": [
+      "Dot",
+      "Plane",
+      "Cube",
+      "Angle"
+    ],
+    "answer": "Plane"
+  },
+  {
+    "id": "s-082",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "Reflect the word 'MOM' vertically. What does it say?",
+    "options": [
+      "WOW",
+      "MOM",
+      "NON",
+      "WWW"
+    ],
+    "answer": "MOM"
+  },
+  {
+    "id": "s-083",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "A line grows 1cm every step. 1cm, 2cm, 3cm... Step 10?",
+    "options": [
+      "9cm",
+      "10cm",
+      "11cm",
+      "100cm"
+    ],
+    "answer": "10cm"
+  },
+  {
+    "id": "s-084",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Identify the outlier:",
+    "options": [
+      "Cylinder",
+      "Cone",
+      "Sphere",
+      "Triangle"
+    ],
+    "answer": "Triangle"
+  },
+  {
+    "id": "s-085",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "Two identical right triangles are joined at their hypotenuse. Result?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Circle",
+      "Hexagon"
+    ],
+    "answer": "Rectangle"
+  },
+  {
+    "id": "s-086",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "How many degrees in a full circle?",
+    "options": [
+      "180",
+      "270",
+      "360",
+      "400"
+    ],
+    "answer": "360"
+  },
+  {
+    "id": "s-087",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Star with 3 points, 4 points, 5 points... Next?",
+    "options": [
+      "Circle",
+      "6 point star",
+      "7 point star",
+      "Square"
+    ],
+    "answer": "6 point star"
+  },
+  {
+    "id": "s-088",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Side : Perimeter :: Radius :",
+    "options": [
+      "Area",
+      "Diameter",
+      "Circumference",
+      "Volume"
+    ],
+    "answer": "Circumference"
+  },
+  {
+    "id": "s-089",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "A triangle points Up. Rotate 450 degrees CW. Where does it point?",
+    "options": [
+      "Up",
+      "Right",
+      "Down",
+      "Left"
+    ],
+    "answer": "Right"
+  },
+  {
+    "id": "s-090",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which cannot be formed by two triangles?",
+    "options": [
+      "Square",
+      "Parallelogram",
+      "Rhombus",
+      "Circle"
+    ],
+    "answer": "Circle"
+  },
+  {
+    "id": "s-091",
+    "type": "spatial",
+    "subtype": "matrix",
+    "question": "Small circle inside Big circle, Small square inside Big square, ?",
+    "options": [
+      "Small triangle inside Big triangle",
+      "Small circle inside Big square",
+      "Point",
+      "Line"
+    ],
+    "answer": "Small triangle inside Big triangle"
+  },
+  {
+    "id": "s-092",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "What is the sum of internal angles of a pentagon?",
+    "options": [
+      "360",
+      "450",
+      "540",
+      "720"
+    ],
+    "answer": "540"
+  },
+  {
+    "id": "s-093",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Grid: (1,1), (2,2), (3,3)... Next?",
+    "options": [
+      "(3,4)",
+      "(4,3)",
+      "(4,4)",
+      "(5,5)"
+    ],
+    "answer": "(4,4)"
+  },
+  {
+    "id": "s-094",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which is a 3D object?",
+    "options": [
+      "Polygon",
+      "Prism",
+      "Parallelogram",
+      "Perimeter"
+    ],
+    "answer": "Prism"
+  },
+  {
+    "id": "s-095",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Page : Book :: Brick :",
+    "options": [
+      "Wall",
+      "Clay",
+      "Mortar",
+      "House"
+    ],
+    "answer": "Wall"
+  },
+  {
+    "id": "s-096",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "Flip 'b' horizontally and then vertically.",
+    "options": [
+      "p",
+      "q",
+      "d",
+      "b"
+    ],
+    "answer": "q"
+  },
+  {
+    "id": "s-097",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "A cube has faces A, B, C, D, E, F. If A is opposite F, and you see A, B, C, what is hidden?",
+    "options": [
+      "D, E, F",
+      "B, C, D",
+      "A, B, F",
+      "F only"
+    ],
+    "answer": "D, E, F"
+  },
+  {
+    "id": "s-098",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "1/4 shaded, 1/2 shaded, 3/4 shaded... Next?",
+    "options": [
+      "Empty",
+      "Fully shaded",
+      "1/8 shaded",
+      "1/3 shaded"
+    ],
+    "answer": "Fully shaded"
+  },
+  {
+    "id": "s-099",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which is not a type of angle?",
+    "options": [
+      "Acute",
+      "Obtuse",
+      "Reflex",
+      "Tangent"
+    ],
+    "answer": "Tangent"
+  },
+  {
+    "id": "s-100",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "How many diagonals does a square have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "s-101",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Compass : Direction :: Ruler :",
+    "options": [
+      "Length",
+      "Weight",
+      "Volume",
+      "Speed"
+    ],
+    "answer": "Length"
+  },
+  {
+    "id": "s-102",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "Clockwise rotation of 120 degrees is the same as CCW rotation of:",
+    "options": [
+      "120",
+      "240",
+      "300",
+      "60"
+    ],
+    "answer": "240"
+  },
+  {
+    "id": "s-103",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Square, Square with X, Square with X and +, ...",
+    "options": [
+      "Empty Square",
+      "Circle",
+      "Square with X, +, and dots",
+      "Triangle"
+    ],
+    "answer": "Square with X, +, and dots"
+  },
+  {
+    "id": "s-104",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which is concave?",
+    "options": [
+      "Circle",
+      "Square",
+      "Regular Hexagon",
+      "Star shape"
+    ],
+    "answer": "Star shape"
+  },
+  {
+    "id": "s-105",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "Folding a square along both diagonals creates how many small triangles?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "s-106",
+    "type": "spatial",
+    "subtype": "spatial-reasoning",
+    "question": "The point where two lines meet is a:",
+    "options": [
+      "Segment",
+      "Vertex",
+      "Ray",
+      "Plane"
+    ],
+    "answer": "Vertex"
+  },
+  {
+    "id": "s-107",
+    "type": "spatial",
+    "subtype": "letter-series",
+    "question": "Arrow N, Arrow NE, Arrow E... Next?",
+    "options": [
+      "SE",
+      "S",
+      "SW",
+      "W"
+    ],
+    "answer": "SE"
+  },
+  {
+    "id": "s-108",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Cylinder : Circle :: Pyramid :",
+    "options": [
+      "Triangle",
+      "Square",
+      "Sphere",
+      "Cube"
+    ],
+    "answer": "Square"
+  },
+  {
+    "id": "s-109",
+    "type": "spatial",
+    "subtype": "figure-rotation",
+    "question": "Rotate the letter 'H' 90 degrees. It looks like:",
+    "options": [
+      "H",
+      "I",
+      "M",
+      "N"
+    ],
+    "answer": "I"
+  },
+  {
+    "id": "s-110",
+    "type": "spatial",
+    "subtype": "odd-one-out",
+    "question": "Which is a 2D representation of a 3D object?",
+    "options": [
+      "Blueprint",
+      "Statue",
+      "Model",
+      "Box"
+    ],
+    "answer": "Blueprint"
+  },
+  {
+    "id": "v-109",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "ABHOR : ADORE :: ABATE :",
+    "options": [
+      "Decrease",
+      "Augment",
+      "Relinquish",
+      "Soften"
+    ],
+    "answer": "Augment"
+  },
+  {
+    "id": "v-110",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of LUGUBRIOUS?",
+    "options": [
+      "Cheerful",
+      "Mournful",
+      "Somber",
+      "Dismal"
+    ],
+    "answer": "Cheerful"
+  },
+  {
+    "id": "v-111",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'to obtain by care or effort'?",
+    "options": [
+      "Procure",
+      "Relinquish",
+      "Default",
+      "Forfeit"
+    ],
+    "answer": "Procure"
+  },
+  {
+    "id": "v-112",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The politician’s _____ response failed to address the _____ of the crisis.",
+    "options": [
+      "evasive...severity",
+      "cogent...depth",
+      "brief...benefit",
+      "honest...minority"
+    ],
+    "answer": "evasive...severity"
+  },
+  {
+    "id": "v-113",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "OSCILLATE : SWING :: ADHERE :",
+    "options": [
+      "Detach",
+      "Stick",
+      "Rotate",
+      "Vibrate"
+    ],
+    "answer": "Stick"
+  },
+  {
+    "id": "v-114",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of SPURIOUS?",
+    "options": [
+      "Fake",
+      "Authentic",
+      "Temporary",
+      "Illegitimate"
+    ],
+    "answer": "Authentic"
+  },
+  {
+    "id": "v-115",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "A person who is 'loquacious' is:",
+    "options": [
+      "Silent",
+      "Talkative",
+      "Fearful",
+      "Wealthy"
+    ],
+    "answer": "Talkative"
+  },
+  {
+    "id": "v-116",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "REDUNDANT : SUPERFLUOUS :: SCANTY :",
+    "options": [
+      "Copious",
+      "Sparse",
+      "Excessive",
+      "Plentiful"
+    ],
+    "answer": "Sparse"
+  },
+  {
+    "id": "v-117",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "Because the data was _____, the researchers could not reach a _____ conclusion.",
+    "options": [
+      "clear...final",
+      "ambiguous...definitive",
+      "plentiful...valid",
+      "sparse...incorrect"
+    ],
+    "answer": "ambiguous...definitive"
+  },
+  {
+    "id": "v-118",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "MENDACIOUS : TRUTHFUL :: DOCILE :",
+    "options": [
+      "Compliant",
+      "Stubborn",
+      "Gentle",
+      "Quiet"
+    ],
+    "answer": "Stubborn"
+  },
+  {
+    "id": "v-119",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'to make less severe or painful'?",
+    "options": [
+      "Aggravate",
+      "Mitigate",
+      "Incite",
+      "Exacerbate"
+    ],
+    "answer": "Mitigate"
+  },
+  {
+    "id": "v-120",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of ALACRITY?",
+    "options": [
+      "Eagerness",
+      "Apathy",
+      "Speed",
+      "Promptness"
+    ],
+    "answer": "Apathy"
+  },
+  {
+    "id": "v-121",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "COUPLET : POEM :: BRICK :",
+    "options": [
+      "Wall",
+      "Mortar",
+      "Clay",
+      "Mason"
+    ],
+    "answer": "Wall"
+  },
+  {
+    "id": "v-122",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The author's style was so _____ that many readers found the book _____ to finish.",
+    "options": [
+      "concise...easy",
+      "convoluted...difficult",
+      "engaging...impossible",
+      "simple...tedious"
+    ],
+    "answer": "convoluted...difficult"
+  },
+  {
+    "id": "v-123",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "What is the definition of 'Equanimity'?",
+    "options": [
+      "Fairness",
+      "Composure",
+      "Equality",
+      "Distance"
+    ],
+    "answer": "Composure"
+  },
+  {
+    "id": "v-124",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of ENERVATE?",
+    "options": [
+      "Weaken",
+      "Strengthen",
+      "Tire",
+      "Ignore"
+    ],
+    "answer": "Strengthen"
+  },
+  {
+    "id": "v-125",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "TACITURN : RETICENT :: VOLUBLE :",
+    "options": [
+      "Garrulous",
+      "Silent",
+      "Shy",
+      "Brief"
+    ],
+    "answer": "Garrulous"
+  },
+  {
+    "id": "v-126",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "Despite the _____ of the desert, some plants _____ in the harsh environment.",
+    "options": [
+      "heat...wither",
+      "aridity...thrive",
+      "vastness...die",
+      "sand...struggle"
+    ],
+    "answer": "aridity...thrive"
+  },
+  {
+    "id": "v-127",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'a state of inactivity or dormancy'?",
+    "options": [
+      "Quiescence",
+      "Vitality",
+      "Pandemonium",
+      "Activity"
+    ],
+    "answer": "Quiescence"
+  },
+  {
+    "id": "v-128",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of INSIPID?",
+    "options": [
+      "Bland",
+      "Flavorless",
+      "Flavorful",
+      "Dull"
+    ],
+    "answer": "Flavorful"
+  },
+  {
+    "id": "v-129",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "PRODIGAL : WASTE :: FRUGAL :",
+    "options": [
+      "Spend",
+      "Save",
+      "Steal",
+      "Give"
+    ],
+    "answer": "Save"
+  },
+  {
+    "id": "v-130",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The manager’s _____ attitude made it _____ for employees to voice their concerns.",
+    "options": [
+      "approachable...hard",
+      "dictatorial...difficult",
+      "friendly...scary",
+      "distant...easy"
+    ],
+    "answer": "dictatorial...difficult"
+  },
+  {
+    "id": "v-131",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "What does 'Pragmatic' mean?",
+    "options": [
+      "Idealistic",
+      "Practical",
+      "Unrealistic",
+      "Emotional"
+    ],
+    "answer": "Practical"
+  },
+  {
+    "id": "v-132",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of CACOPHONY?",
+    "options": [
+      "Noise",
+      "Euphony",
+      "Disharmony",
+      "Din"
+    ],
+    "answer": "Euphony"
+  },
+  {
+    "id": "v-133",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "INCIPIENT : MATURE :: HOSTILE :",
+    "options": [
+      "Angry",
+      "Amiable",
+      "Aggressive",
+      "Violent"
+    ],
+    "answer": "Amiable"
+  },
+  {
+    "id": "v-134",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "His argument was _____, yet it lacked the _____ evidence to convince the jury.",
+    "options": [
+      "flawless...any",
+      "compelling...empirical",
+      "weak...false",
+      "long...visual"
+    ],
+    "answer": "compelling...empirical"
+  },
+  {
+    "id": "v-135",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'to renounced a belief or claim'?",
+    "options": [
+      "Abjure",
+      "Assert",
+      "Maintain",
+      "Validate"
+    ],
+    "answer": "Abjure"
+  },
+  {
+    "id": "v-136",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of OBSEQUIOUS?",
+    "options": [
+      "Servile",
+      "Domineering",
+      "Compliant",
+      "Submissive"
+    ],
+    "answer": "Domineering"
+  },
+  {
+    "id": "v-137",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "PERIPHERAL : CORE :: MARGINAL :",
+    "options": [
+      "Central",
+      "Edge",
+      "Boundary",
+      "Minor"
+    ],
+    "answer": "Central"
+  },
+  {
+    "id": "v-138",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The virus is _____ in this region, making it a _____ health concern.",
+    "options": [
+      "absent...major",
+      "endemic...constant",
+      "rare...slight",
+      "extinct...global"
+    ],
+    "answer": "endemic...constant"
+  },
+  {
+    "id": "v-139",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "What is the definition of 'Inexorable'?",
+    "options": [
+      "Flexible",
+      "Relentless",
+      "Yielding",
+      "Temporary"
+    ],
+    "answer": "Relentless"
+  },
+  {
+    "id": "v-140",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of AMELIORATE?",
+    "options": [
+      "Improve",
+      "Exacerbate",
+      "Help",
+      "Soothe"
+    ],
+    "answer": "Exacerbate"
+  },
+  {
+    "id": "v-141",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "CAREFUL : METICULOUS :: ANGRY :",
+    "options": [
+      "Happy",
+      "Infuriated",
+      "Calm",
+      "Annoyed"
+    ],
+    "answer": "Infuriated"
+  },
+  {
+    "id": "v-142",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The _____ of the building was a _____ contrast to the modern skyscrapers nearby.",
+    "options": [
+      "antiquity...stark",
+      "height...minimal",
+      "color...vibrant",
+      "design...subtle"
+    ],
+    "answer": "antiquity...stark"
+  },
+  {
+    "id": "v-143",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'habitually lazy or idle'?",
+    "options": [
+      "Diligent",
+      "Indolent",
+      "Active",
+      "Energetic"
+    ],
+    "answer": "Indolent"
+  },
+  {
+    "id": "v-144",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of CASTIGATE?",
+    "options": [
+      "Criticize",
+      "Praise",
+      "Punish",
+      "Scold"
+    ],
+    "answer": "Praise"
+  },
+  {
+    "id": "v-145",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "DEARTH : SCARCITY :: GLUT :",
+    "options": [
+      "Shortage",
+      "Surplus",
+      "Lack",
+      "Void"
+    ],
+    "answer": "Surplus"
+  },
+  {
+    "id": "v-146",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "Her _____ nature often led her to _____ in situations that were none of her business.",
+    "options": [
+      "shy...hide",
+      "meddlesome...interfere",
+      "quiet...listen",
+      "bold...ignore"
+    ],
+    "answer": "meddlesome...interfere"
+  },
+  {
+    "id": "v-147",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "What does 'Transient' mean?",
+    "options": [
+      "Permanent",
+      "Lasting",
+      "Short-lived",
+      "Solid"
+    ],
+    "answer": "Short-lived"
+  },
+  {
+    "id": "v-148",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of VENERATION?",
+    "options": [
+      "Respect",
+      "Contempt",
+      "Adoration",
+      "Awe"
+    ],
+    "answer": "Contempt"
+  },
+  {
+    "id": "v-149",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "EPITOME : EXAMPLE :: ZENITH :",
+    "options": [
+      "Bottom",
+      "Peak",
+      "Nadir",
+      "Base"
+    ],
+    "answer": "Peak"
+  },
+  {
+    "id": "v-150",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The _____ student spent every weekend in the library, _____ for her exams.",
+    "options": [
+      "lazy...sleeping",
+      "assiduous...preparing",
+      "distracted...playing",
+      "casual...waiting"
+    ],
+    "answer": "assiduous...preparing"
+  },
+  {
+    "id": "v-151",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "Which word means 'having a harmful effect'?",
+    "options": [
+      "Innocuous",
+      "Deleterious",
+      "Beneficial",
+      "Salubrious"
+    ],
+    "answer": "Deleterious"
+  },
+  {
+    "id": "v-152",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of GARRULOUS?",
+    "options": [
+      "Talkative",
+      "Verbose",
+      "Taciturn",
+      "Loquacious"
+    ],
+    "answer": "Taciturn"
+  },
+  {
+    "id": "v-153",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "OSTRACIZE : EXCLUDE :: ADOPT :",
+    "options": [
+      "Reject",
+      "Embrace",
+      "Discard",
+      "Ignore"
+    ],
+    "answer": "Embrace"
+  },
+  {
+    "id": "v-154",
+    "type": "verbal",
+    "subtype": "sentence-completion",
+    "question": "The speaker was so _____ that the audience remained _____ for the entire hour.",
+    "options": [
+      "boring...excited",
+      "captivating...spellbound",
+      "loud...asleep",
+      "quiet...noisy"
+    ],
+    "answer": "captivating...spellbound"
+  },
+  {
+    "id": "v-155",
+    "type": "verbal",
+    "subtype": "word-meaning",
+    "question": "What is 'Avarice'?",
+    "options": [
+      "Generosity",
+      "Greed",
+      "Bravery",
+      "Wisdom"
+    ],
+    "answer": "Greed"
+  },
+  {
+    "id": "v-156",
+    "type": "verbal",
+    "subtype": "antonym",
+    "question": "What is the antonym of CANDID?",
+    "options": [
+      "Frank",
+      "Evasive",
+      "Sincere",
+      "Honest"
+    ],
+    "answer": "Evasive"
+  },
+  {
+    "id": "v-157",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "SUBTERFUGE : DECEIT :: CANDOR :",
+    "options": [
+      "Lies",
+      "Honesty",
+      "Secrecy",
+      "Trickery"
+    ],
+    "answer": "Honesty"
   }
 ]

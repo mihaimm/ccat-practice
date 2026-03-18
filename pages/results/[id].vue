@@ -334,8 +334,9 @@ function formatDuration(secs) {
   margin-left: 0.25rem;
 }
 .review-ans-img :deep(svg) {
-  max-height: 60px;
-  width: auto;
+  display: block;
+  width: 60px;
+  height: 60px;
   border: 1px solid var(--border);
   border-radius: 4px;
   background: white;

@@ -110,11 +110,17 @@ export function useProgress() {
     }
 
     // Recent scores (last 8) for mini-chart
-    const recentScores = results.slice(0, 8).map(r => ({
-      score: r.score,
-      pct: Math.round((r.score / r.totalQuestions) * 100),
-      date: new Date(r.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
-    })).reverse()
+    const recentScores = results.slice(0, 8).map(r => {
+      const d = new Date(r.date)
+      return {
+        score: r.score,
+        total: r.totalQuestions,
+        pct: Math.round((r.score / r.totalQuestions) * 100),
+        date: d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
+        time: d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' }),
+        id: r.id,
+      }
+    }).reverse()
 
     return {
       totalTests: results.length,

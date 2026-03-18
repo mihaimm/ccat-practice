@@ -54,17 +54,28 @@
       <div class="card" v-if="stats.recentScores.length > 1">
         <div class="card-title">Score History</div>
         <div class="score-history">
-          <div v-for="(s, i) in stats.recentScores" :key="i" class="score-bar-col">
-            <div class="score-bar-label">{{ s.pct }}%</div>
-            <div class="score-bar-outer">
+          <NuxtLink
+            v-for="(s, i) in stats.recentScores"
+            :key="i"
+            :to="`/results/${s.id}`"
+            class="sh-row"
+          >
+            <div class="sh-when">
+              <span class="sh-date">{{ s.date }}</span>
+              <span class="sh-time">{{ s.time }}</span>
+            </div>
+            <div class="sh-score" :class="accuracyClass(s.score / s.total)">
+              {{ s.score }}/{{ s.total }}
+            </div>
+            <div class="sh-bar-track">
               <div
-                class="score-bar-inner"
-                :class="accuracyClass(s.score / 50)"
-                :style="{ height: `${s.pct}%` }"
+                class="sh-bar-fill"
+                :class="accuracyClass(s.score / s.total)"
+                :style="{ width: `${s.pct}%` }"
               ></div>
             </div>
-            <div class="score-bar-date">{{ s.date }}</div>
-          </div>
+            <div class="sh-pct" :class="accuracyClass(s.score / s.total)">{{ s.pct }}%</div>
+          </NuxtLink>
         </div>
       </div>
 
@@ -211,47 +222,43 @@ function formatDuration(secs) {
 .stat-pct { font-size: 0.85rem; font-weight: 600; margin-top: 0.3rem; }
 .trend { font-size: 1.6rem !important; }
 
-/* Score history bar chart */
-.score-history {
-  display: flex;
-  align-items: flex-end;
+/* Score history */
+.score-history { display: flex; flex-direction: column; gap: 0.5rem; }
+.sh-row {
+  display: grid;
+  grid-template-columns: 110px 52px 1fr 40px;
+  align-items: center;
   gap: 0.75rem;
-  height: 100px;
-  padding-top: 1.5rem;
-  position: relative;
+  padding: 0.45rem 0.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.12s;
 }
-.score-bar-col {
-  flex: 1;
+.sh-row:hover { background: var(--bg); }
+.sh-when {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 0.3rem;
+  gap: 0.05rem;
 }
-.score-bar-outer {
-  flex: 1;
-  width: 100%;
+.sh-date { font-size: 0.82rem; font-weight: 600; color: var(--text); }
+.sh-time { font-size: 0.72rem; color: var(--text-muted); }
+.sh-score { font-size: 0.82rem; font-weight: 700; white-space: nowrap; }
+.sh-bar-track {
+  height: 8px;
   background: var(--border);
   border-radius: 4px;
-  display: flex;
-  align-items: flex-end;
   overflow: hidden;
-  max-width: 48px;
 }
-.score-bar-inner {
-  width: 100%;
+.sh-bar-fill {
+  height: 100%;
   border-radius: 4px;
-  transition: height 0.5s ease;
+  transition: width 0.4s ease;
 }
-.score-bar-label {
-  font-size: 0.7rem;
-  font-weight: 700;
-  color: var(--text-muted);
-}
-.score-bar-date {
-  font-size: 0.65rem;
-  color: var(--text-muted);
-  white-space: nowrap;
-}
+.sh-bar-fill.good { background: var(--success); }
+.sh-bar-fill.fair { background: var(--warning); }
+.sh-bar-fill.poor { background: var(--danger); }
+.sh-pct { font-size: 0.78rem; font-weight: 700; text-align: right; }
 
 /* Category bars */
 .category-list { display: flex; flex-direction: column; gap: 0.85rem; }

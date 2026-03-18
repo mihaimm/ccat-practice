@@ -305,8 +305,9 @@ function confirmLeave() {
   justify-content: center;
 }
 .option-img :deep(svg) {
-  max-width: 100%;
-  height: auto;
+  display: block;
+  width: 68px;
+  height: 68px;
 }
 .option {
   display: flex;

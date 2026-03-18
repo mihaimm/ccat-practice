@@ -33,7 +33,6 @@
           <nav class="nav">
             <span v-if="userName" class="greeting">Hi, {{ userName }}</span>
             <NuxtLink to="/" class="nav-link">Dashboard</NuxtLink>
-            <NuxtLink to="/test" class="btn btn-primary">Start Test</NuxtLink>
           </nav>
         </div>
       </header>
