@@ -97,6 +97,24 @@ const timerClass = computed(() => {
 })
 
 // ── Stratified question selection (15 verbal, 18 math, 10 logic, 4 spatial-text, 3 spatial-image) ──
+function shuffleOptions(q) {
+  if (q.imageOptions) {
+    // Image questions: answer is a letter ("A"–"D") indexing into imageOptions.
+    // Shuffle imageOptions, then update answer to reflect the new position.
+    const n = q.imageOptions.length
+    const perm = Array.from({ length: n }, (_, i) => i).sort(() => Math.random() - 0.5)
+    const correctIdx = q.options.indexOf(q.answer) // "A" → 0
+    const newCorrectIdx = perm.indexOf(correctIdx)
+    return {
+      ...q,
+      imageOptions: perm.map(i => q.imageOptions[i]),
+      answer: String.fromCharCode(65 + newCorrectIdx)
+    }
+  }
+  // Text questions: answer is the option text itself, so shuffling options is safe.
+  return { ...q, options: [...q.options].sort(() => Math.random() - 0.5) }
+}
+
 function generateTest() {
   const shuffle = arr => [...arr].sort(() => Math.random() - 0.5)
   const byType = type => allQuestions.filter(q => q.type === type)
@@ -108,7 +126,7 @@ function generateTest() {
     ...shuffle(byType('logic')).slice(0, 10),
     ...shuffle(spatialText).slice(0, 4),
     ...shuffle(spatialImage).slice(0, 3),
-  ])
+  ]).map(shuffleOptions)
 }
 
 // ── Navigation ────────────────────────────────────────
