@@ -81,6 +81,12 @@ Questions are stored in `data/questions.json`:
 
 Each result contains: `{ id, date, durationSeconds, score, totalQuestions, answers[] }`
 
+## DISCLAIMER
+
+Virtually **ALL** questions are AI generated (Claude, ChatGPT, Gemini, and others). So... image questions are few and... quite easy!
+
+Also... there was limitted testing on questions. I know some image questions have problems. Feel free to fix.
+
 ## License
 
 MIT
