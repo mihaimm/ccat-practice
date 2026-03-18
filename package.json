@@ -6,9 +6,11 @@
     "dev": "nuxt dev",
     "build": "nuxt build",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "merge": "npx tsx scripts/merge-questions.ts"
   },
   "devDependencies": {
-    "nuxt": "^3.13.0"
+    "nuxt": "^3.13.0",
+    "tsx": "^4.19.0"
   }
 }

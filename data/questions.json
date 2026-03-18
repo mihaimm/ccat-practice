@@ -7733,5 +7733,265 @@
       "Trickery"
     ],
     "answer": "Honesty"
+  },
+  {
+    "id": "l-088",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All X are Y. Some Y are Z. Which must be true?",
+    "options": [
+      "All X are Z",
+      "Some X are Z",
+      "X may or may not be Z",
+      "No X are Z"
+    ],
+    "answer": "X may or may not be Z"
+  },
+  {
+    "id": "m-195",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 6 and then reduced by 6, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "6",
+      "5"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "v-158",
+    "type": "verbal",
+    "subtype": "analogy",
+    "question": "Pen is to write as knife is to ___.",
+    "options": [
+      "cut",
+      "draw",
+      "stab",
+      "slice"
+    ],
+    "answer": "cut"
+  },
+  {
+    "id": "m-196",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 9 and then reduced by 9, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "9",
+      "8"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-197",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 4 and then reduced by 4, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-198",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 7 and then reduced by 7, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "7",
+      "6"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-199",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 5 and then reduced by 5, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "4"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-200",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 2 and then reduced by 2, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-201",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 3 and then reduced by 3, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "m-202",
+    "type": "math",
+    "subtype": "arithmetic",
+    "question": "If a number is multiplied by 8 and then reduced by 8, the result is 0. What is the number?",
+    "options": [
+      "0",
+      "1",
+      "8",
+      "7"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "l-089",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All A are B. Some B are C. Which must be true?",
+    "options": [
+      "Some A are C",
+      "All A are C",
+      "A may or may not be C",
+      "No A are C"
+    ],
+    "answer": "A may or may not be C"
+  },
+  {
+    "id": "l-090",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Some A are B. All B are C. Which must be true?",
+    "options": [
+      "Some A are C",
+      "All A are C",
+      "No A are C",
+      "A may or may not be C"
+    ],
+    "answer": "Some A are C"
+  },
+  {
+    "id": "l-091",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "No A are B. Some B are C. Which must be true?",
+    "options": [
+      "Some A are C",
+      "No A are C",
+      "A may or may not be C",
+      "All A are C"
+    ],
+    "answer": "A may or may not be C"
+  },
+  {
+    "id": "l-092",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All A are B. No B are C. Which must be true?",
+    "options": [
+      "No A are C",
+      "Some A are C",
+      "All A are C",
+      "A may or may not be C"
+    ],
+    "answer": "No A are C"
+  },
+  {
+    "id": "l-093",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Some A are B. Some B are C. Which must be true?",
+    "options": [
+      "Some A are C",
+      "All A are C",
+      "No A are C",
+      "A may or may not be C"
+    ],
+    "answer": "A may or may not be C"
+  },
+  {
+    "id": "l-094",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All A are B. All B are C. Which must be true?",
+    "options": [
+      "All A are C",
+      "Some A are C",
+      "No A are C",
+      "A may or may not be C"
+    ],
+    "answer": "All A are C"
+  },
+  {
+    "id": "l-095",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Some A are B. No B are C. Which must be true?",
+    "options": [
+      "Some A are not C",
+      "All A are not C",
+      "Some A are C",
+      "A may or may not be C"
+    ],
+    "answer": "Some A are not C"
+  },
+  {
+    "id": "l-096",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "No A are B. No B are C. Which must be true?",
+    "options": [
+      "Some A are C",
+      "No A are C",
+      "All A are C",
+      "A may or may not be C"
+    ],
+    "answer": "A may or may not be C"
+  },
+  {
+    "id": "l-097",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "All A are B. Some C are B. Which must be true?",
+    "options": [
+      "Some A are C",
+      "All C are A",
+      "A may or may not be C",
+      "No A are C"
+    ],
+    "answer": "A may or may not be C"
+  },
+  {
+    "id": "l-098",
+    "type": "logic",
+    "subtype": "deduction",
+    "question": "Some A are B. All C are B. Which must be true?",
+    "options": [
+      "Some C are A",
+      "All C are A",
+      "No C are A",
+      "C may or may not be A"
+    ],
+    "answer": "C may or may not be A"
   }
 ]
