@@ -33,16 +33,19 @@
     <div class="question-card" :key="currentIndex">
       <p class="question-text">{{ currentQuestion?.question }}</p>
 
-      <div class="options">
+      <div v-if="currentQuestion?.image" class="question-image" v-html="currentQuestion.image"></div>
+
+      <div class="options" :class="{ 'options-image-grid': currentQuestion?.imageOptions }">
         <button
           v-for="(opt, i) in currentQuestion?.options"
           :key="i"
           class="option"
-          :class="{ selected: selectedAnswer === opt }"
+          :class="{ selected: selectedAnswer === opt, 'option-image': currentQuestion?.imageOptions }"
           @click="selectedAnswer = opt"
         >
           <span class="option-letter">{{ String.fromCharCode(65 + i) }}</span>
-          <span class="option-text">{{ opt }}</span>
+          <span v-if="currentQuestion?.imageOptions" class="option-img" v-html="currentQuestion.imageOptions[i]"></span>
+          <span v-else class="option-text">{{ opt }}</span>
         </button>
       </div>
 
@@ -93,15 +96,18 @@ const timerClass = computed(() => {
   return ''
 })
 
-// ── Stratified question selection (15 verbal, 18 math, 10 logic, 7 spatial) ──
+// ── Stratified question selection (15 verbal, 18 math, 10 logic, 4 spatial-text, 3 spatial-image) ──
 function generateTest() {
   const shuffle = arr => [...arr].sort(() => Math.random() - 0.5)
   const byType = type => allQuestions.filter(q => q.type === type)
+  const spatialText = allQuestions.filter(q => q.type === 'spatial' && !q.image)
+  const spatialImage = allQuestions.filter(q => q.type === 'spatial' && q.image)
   return shuffle([
     ...shuffle(byType('verbal')).slice(0, 15),
     ...shuffle(byType('math')).slice(0, 18),
     ...shuffle(byType('logic')).slice(0, 10),
-    ...shuffle(byType('spatial')).slice(0, 7),
+    ...shuffle(spatialText).slice(0, 4),
+    ...shuffle(spatialImage).slice(0, 3),
   ])
 }
 
@@ -264,8 +270,44 @@ function confirmLeave() {
   white-space: pre-line;
 }
 
+/* Question image */
+.question-image {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+.question-image :deep(svg) {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: white;
+}
+
 /* Options */
 .options { display: flex; flex-direction: column; gap: 0.65rem; margin-bottom: 1.75rem; }
+
+/* Image option grid (2×2) */
+.options-image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem;
+}
+.option-image {
+  flex-direction: column;
+  align-items: center;
+  padding: 0.65rem;
+  gap: 0.5rem;
+}
+.option-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.option-img :deep(svg) {
+  max-width: 100%;
+  height: auto;
+}
 .option {
   display: flex;
   align-items: center;

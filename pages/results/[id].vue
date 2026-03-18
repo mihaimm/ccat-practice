@@ -83,12 +83,23 @@
             <span class="review-meta">{{ getTypeLabel(ans.type) }} · {{ getSubtypeLabel(ans.subtype) }}</span>
           </div>
           <div class="review-q">{{ getQuestion(ans.questionId)?.question }}</div>
+          <div v-if="getQuestion(ans.questionId)?.image" class="review-img" v-html="getQuestion(ans.questionId).image"></div>
           <div class="review-answers">
             <span v-if="!ans.isCorrect" class="review-wrong">
-              Your answer: <em>{{ ans.selectedAnswer || '(no answer)' }}</em>
+              Your answer:
+              <span v-if="getQuestion(ans.questionId)?.imageOptions && ans.selectedAnswer"
+                class="review-ans-img"
+                v-html="getQuestion(ans.questionId).imageOptions[ans.selectedAnswer.charCodeAt(0) - 65]"
+              ></span>
+              <em v-else>{{ ans.selectedAnswer || '(no answer)' }}</em>
             </span>
             <span class="review-correct">
-              {{ ans.isCorrect ? 'Correct: ' : 'Correct answer: ' }}<strong>{{ ans.correctAnswer }}</strong>
+              {{ ans.isCorrect ? 'Correct: ' : 'Correct answer: ' }}
+              <span v-if="getQuestion(ans.questionId)?.imageOptions"
+                class="review-ans-img"
+                v-html="getQuestion(ans.questionId).imageOptions[ans.correctAnswer.charCodeAt(0) - 65]"
+              ></span>
+              <strong v-else>{{ ans.correctAnswer }}</strong>
             </span>
           </div>
         </div>
@@ -298,6 +309,17 @@ function formatDuration(secs) {
   margin-bottom: 0.4rem;
   white-space: pre-line;
 }
+.review-img {
+  margin: 0.4rem 0;
+}
+.review-img :deep(svg) {
+  max-width: 100%;
+  height: auto;
+  max-height: 160px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: white;
+}
 .review-answers {
   display: flex;
   flex-direction: column;
@@ -306,6 +328,18 @@ function formatDuration(secs) {
 }
 .review-wrong { color: var(--danger); }
 .review-correct { color: var(--success); }
+.review-ans-img {
+  display: inline-flex;
+  vertical-align: middle;
+  margin-left: 0.25rem;
+}
+.review-ans-img :deep(svg) {
+  max-height: 60px;
+  width: auto;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: white;
+}
 
 /* Actions */
 .actions {

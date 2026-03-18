@@ -44,6 +44,16 @@ export function useProgress() {
       'letter-series': 'Letter Series',
       'alphanumeric-series': 'Alphanumeric Series',
       'matrix': 'Matrix Patterns',
+      'word-meaning': 'Word Meanings',
+      'grammar': 'Grammar',
+      'geometry': 'Geometry',
+      'probability': 'Probability',
+      'ratios': 'Ratios & Proportions',
+      'if-then': 'If-Then Reasoning',
+      'set-membership': 'Set Membership',
+      'pattern-matrix': 'Pattern Matrix',
+      'shape-sequence': 'Shape Sequence',
+      'figure-rotation': 'Figure Rotation',
     }[subtype] || subtype
   }
 
@@ -143,6 +153,16 @@ export function useProgress() {
       'matrix': 'Check each row and each column independently for the rule.',
       'letter-series': 'Write out letter positions (A=1, B=2…) to spot arithmetic patterns.',
       'alphanumeric-series': 'Separate the letter part and number part and solve each independently.',
+      'word-meaning': 'Use roots, prefixes, and suffixes to decode unfamiliar words.',
+      'grammar': 'Read each option aloud — the grammatically wrong one usually sounds off.',
+      'geometry': 'Sketch the shape and label known values before computing.',
+      'probability': 'Count favorable outcomes over total outcomes; multiply for independent events.',
+      'ratios': 'Scale both parts by the same factor to find equivalent ratios.',
+      'if-then': "Only the contrapositive is logically equivalent — 'If not B, then not A'.",
+      'set-membership': 'Draw a quick Venn diagram to test whether an item must be in a set.',
+      'pattern-matrix': 'Check each row and each column independently for the rule.',
+      'shape-sequence': 'Identify what changes each step: rotation, size, fill, or shape.',
+      'figure-rotation': 'Mark one asymmetric corner and track where it moves under each rotation.',
     }
 
     const suggestions = []
