@@ -35,7 +35,13 @@
 
       <div v-if="currentQuestion?.image" class="question-image" v-html="currentQuestion.image"></div>
 
-      <div class="options" :class="{ 'options-image-grid': currentQuestion?.imageOptions }">
+      <div
+        class="options"
+        :class="{ 'options-image-grid': currentQuestion?.imageOptions }"
+        :style="currentQuestion?.imageOptions
+          ? { gridTemplateColumns: `repeat(${Math.ceil(Math.sqrt(currentQuestion.imageOptions.length))}, 1fr)` }
+          : {}"
+      >
         <button
           v-for="(opt, i) in currentQuestion?.options"
           :key="i"
