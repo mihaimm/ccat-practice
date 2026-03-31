@@ -10,7 +10,7 @@ A web-based practice tool for the Criteria Cognitive Aptitude Test (CCAT). Take 
 - **Performance analytics** — Score history, category breakdowns, and improvement suggestions
 - **No account required** — Everything persists in `localStorage`
 
-## Quick Start
+## Quick Start (Local)
 
 ```bash
 # Install dependencies
@@ -30,6 +30,20 @@ npm run preview
 ```
 
 The app runs at `http://localhost:3000` by default.
+
+## Quick Start (Docker)
+
+Run everything in Docker so dependencies are installed in the container (no local `npm install` needed):
+
+```bash
+# Build image
+docker build -t ccat-platform .
+
+# Run app (mount source for live edits, keep deps in container)
+docker run --rm -it -p 3000:3000 -v "$(pwd):/app" -v /app/node_modules ccat-platform
+```
+
+The app is available at `http://localhost:3000`.
 
 ## Tech Stack
 
